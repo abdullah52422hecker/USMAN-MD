@@ -62,7 +62,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['923096287432', '923154647639']
+  const ownerNumber = ['923351300389', '923351300389']
 
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -151,7 +151,7 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
 `;
 conn.sendMessage(conn.user.id,{
   image: {
-    url: `https://telegra.ph/file/2a06381b260c3f096a612.jpg`
+    url: `https://i.postimg.cc/x8VLPrcb/20250907-235759.png`
   },
   caption: up,
   contextInfo: {
@@ -160,16 +160,16 @@ conn.sendMessage(conn.user.id,{
     //forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363189714152560@newsletter',
+      newsletterJid: '0029Vb6IIZI5vKA4u6OoF60z@newsletter',
       newsletterName: "USMAN-MD",
       serverMessageId: 999
     },
     externalAdReply: {
-      title: 'USMAN-MD࿐',
+      title: 'USMAN-MD',
       body: 'USMAN SER',
       mediaType: 1,
       sourceUrl: "https://github.com/usmanser71/USMAN-MD",
-      thumbnailUrl: "https://i.postimg.cc/gJj7YQD5/Screenshot-20250908-015049-01.jpg",
+      thumbnailUrl: "https://i.postimg.cc/x8VLPrcb/20250907-235759.png",
       renderLargerThumbnail: true,
       showAdAttribution: true
     }
