@@ -1,12 +1,12 @@
 {
-  "name": "SILENT-SOBX-MD",
+  "name": "USMAN-MD",
   "version": "1.0.3",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "A WhatsApp bot created By USMAN SER",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SILENT-SOBX-MD",
-    "stop": "pm2 stop SILENT-SOBX-MD",
-    "restart": "pm2 restart SILENT-SOBX-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name USMAN-MD",
+    "stop": "pm2 stop USMAN-MD",
+    "restart": "pm2 restart USMAN-MD"
   },
 "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
