@@ -160,7 +160,7 @@ conn.sendMessage(conn.user.id,{
     //forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '0029Vb6IIZI5vKA4u6OoF60z@newsletter',
+      newsletterJid: '120363420473990639@newsletter',
       newsletterName: "USMAN-MD",
       serverMessageId: 999
     },
