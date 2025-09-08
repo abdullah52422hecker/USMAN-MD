@@ -24,7 +24,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~ncF3gIQK#tSYqkR_v1Q4DcB7AlbdO4Ntwcp0ZqBB9If-pAxZcYpY",
     CAPTION: process.env.CAPTION || "POWERED BY USMAN-MD",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
