@@ -992,7 +992,7 @@ cmd({
     await _0x355a5a(_0x28cfbe);
     const _0x3f5901 = {
       'document': _0x482747.downloadUrl,
-      'caption': "\n     \n   *SILENT-SOBX-MD*",
+      'caption': "\n     \n   *USMAN-MD*",
       'mimetype': 'video/mp4',
       'fileName': "🎬SILENT-SOBX-MD🎬.mp4"
     };
@@ -1051,7 +1051,7 @@ cmd({
           'url': _0x2a1924
         },
         'mimetype': "video/mp4",
-        'caption': '© POWERED BY SILENTLOVER432'
+        'caption': '© POWERED BY USMAN-MD'
       }, {
         'quoted': _0x4461ca
       });
@@ -1099,7 +1099,7 @@ cmd({
       'image': {
         'url': _0x49840c.url
       },
-      'caption': "👧 *RANDOM  GIRL IMAGE* 👧\n\n> © POWERED BY SILENTLOVER432"
+      'caption': "👧 *RANDOM  GIRL IMAGE* 👧\n\n> © POWERED BY USMAN-MD"
     }, {
       'quoted': _0x1d2a3d
     });
@@ -1159,7 +1159,7 @@ cmd({
       'document': {
         'url': _0x5d4c31.quoted.msg
       },
-      'caption': "\n" + _0x4b045c + "\n\n *SILENT-SOBX-MD MV SEARCH* ",
+      'caption': "\n" + _0x4b045c + "\n\n *USMAN-MD MV SEARCH* ",
       'mimetype': 'video/mp4',
       'fileName': _0x4b045c + ".mp4"
     });
