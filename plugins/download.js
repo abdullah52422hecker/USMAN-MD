@@ -55,7 +55,7 @@ cmd({
     }
     _0x352508.react('⬇️');
     let _0x3cc321 = await downloadTiktok(_0x56889c);
-    let _0x17702e = "\n*✧sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴛɪᴋᴛᴏᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ✧*  \n*ᴛɪᴛʟᴇ*:  " + _0x3cc321.result.title + "\n\n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ꜰɪʟᴇ* 🎬\n\n*1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ꜰɪʟᴇ*🎧\n\n*3*     ┃  *ᴀᴜᴅɪᴏ*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³² \n     ";
+    let _0x17702e = "\n*✧🇺🇸🇲🇦🇳-🇲🇩 ᴛɪᴋᴛᴏᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ✧*  \n*ᴛɪᴛʟᴇ*:  " + _0x3cc321.result.title + "\n\n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ꜰɪʟᴇ* 🎬\n\n*1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ꜰɪʟᴇ*🎧\n\n*3*     ┃  *ᴀᴜᴅɪᴏ*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³² \n     ";
     const _0x1a2830 = await _0xd77fff.sendMessage(_0x5edbe4, {
       'image': {
         'url': _0x3cc321.result.image
@@ -90,7 +90,7 @@ cmd({
             'video': {
               'url': _0x5d2707.dl_link.download_mp4_1
             },
-            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+            'caption': "*© ¢яєαтє∂ ву υѕмαη ѕєя*"
           }, {
             'quoted': _0x58803e
           });
@@ -100,7 +100,7 @@ cmd({
               'video': {
                 'url': _0x5d2707.dl_link.download_mp4_2
               },
-              'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+              'caption': "*© ¢яєαтє∂ ву υѕмαη ѕєя*"
             }, {
               'quoted': _0x58803e
             });
@@ -167,7 +167,7 @@ cmd({
       }
     });
     const _0x21f387 = await facebook(_0x3f223d);
-    const _0x3ec2b8 = "\n*❖sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ғʙ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ❖*  \n*⌛ᴅᴜʀᴀᴛɪᴏɴ* : " + _0x21f387.result.duration + "\n\n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎬*\n\n*1.1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*1.2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎧*\n\n*2.1*     ┃  *ᴀᴜᴅɪᴏ*\n*2.2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n*2.3*     ┃  *ᴠᴏɪᴄᴇ*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²\n";
+    const _0x3ec2b8 = "\n*❖🇺🇸🇲🇦🇳-🇲🇩 ғʙ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ❖*  \n*⌛ᴅᴜʀᴀᴛɪᴏɴ* : " + _0x21f387.result.duration + "\n\n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎬*\n\n*1.1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*1.2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎧*\n\n*2.1*     ┃  *ᴀᴜᴅɪᴏ*\n*2.2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n*2.3*     ┃  *ᴠᴏɪᴄᴇ*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²\n";
     const _0x113e79 = await _0x1ac136.sendMessage(_0x1a04e3, {
       'image': {
         'url': _0x21f387.result.thumbnail
@@ -204,7 +204,7 @@ cmd({
             'video': {
               'url': _0x2cfc3f.links.SD
             },
-            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+            'caption': "*©¢яєαтє∂ ву υѕмαη ѕєя*"
           }, {
             'quoted': _0x5ded0a
           });
@@ -214,7 +214,7 @@ cmd({
               'video': {
                 'url': _0x2cfc3f.links.HD
               },
-              'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+              'caption': "*© ¢яєαтє∂ ву υѕмαη ѕєя*"
             }, {
               'quoted': _0x5ded0a
             });
@@ -235,8 +235,8 @@ cmd({
                     'url': _0x2cfc3f.links.SD
                   },
                   'mimetype': "audio/mpeg",
-                  'fileName': "SILENT/FBDL.mp3",
-                  'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+                  'fileName': "USMAN/FBDL.mp3",
+                  'caption': "*© ¢яєαтє∂ ву υѕмαη ѕєя*"
                 }, {
                   'quoted': _0x5ded0a
                 });
@@ -320,7 +320,7 @@ cmd({
       'image': {
         'url': _0x247442
       },
-      'caption': "\n*❖sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴛᴡɪᴛᴛᴇʀ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ❖*  \n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎬*\n\n*1.1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*1.2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎧*\n\n*2.1*     ┃  *ᴀᴜᴅɪᴏ*\n*2.2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n*2.3*     ┃  *ᴠᴏɪᴄᴇ*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²\n"
+      'caption': "\n*❖🇺🇸🇲🇦🇳-🇲🇩 ᴛᴡɪᴛᴛᴇʀ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ❖*  \n*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*\n\n*ᴠɪᴅᴇᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎬*\n\n*1.1*     ┃  *ꜱᴅ Qᴜᴀʟɪᴛʏ*\n*1.2*     ┃  *ʜᴅ Qᴜᴀʟɪᴛʏ*\n\n*ᴀᴜᴅɪᴏ ᴅᴏᴡɴʟᴏᴀᴅ 🎧*\n\n*2.1*     ┃  *ᴀᴜᴅɪᴏ*\n*2.2*     ┃  *ᴅᴏᴄᴜᴍᴇɴᴛ*\n*2.3*     ┃  *ᴠᴏɪᴄᴇ*\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²\n"
     }, {
       'quoted': _0x52bd10
     });
@@ -345,7 +345,7 @@ cmd({
             'video': {
               'url': _0x15a4a6
             },
-            'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+            'caption': "*© ¢яєαтє∂ ву υѕмαη ѕєя*"
           }, {
             'quoted': _0x2405c0
           });
@@ -355,7 +355,7 @@ cmd({
               'video': {
                 'url': _0x3a7cd6
               },
-              'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+              'caption': "*© ¢яєαтє∂ ву υѕмαη ѕєя*"
             }, {
               'quoted': _0x2405c0
             });
@@ -376,8 +376,8 @@ cmd({
                     'url': _0x15a4a6
                   },
                   'mimetype': "audio/mpeg",
-                  'fileName': "sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ/TWDL.mp3",
-                  'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+                  'fileName': "🇺🇸🇲🇦🇳-🇲🇩/TWDL.mp3",
+                  'caption': "*©¢яєαтє∂ ву υѕмαη ѕєя*"
                 }, {
                   'quoted': _0x2405c0
                 });
@@ -447,7 +447,7 @@ cmd({
     const _0x107843 = _0x2d69c7.result.fileName || "mediafire_download";
     const _0xecfe76 = _0x2d69c7.result.fileType || "application/octet-stream";
     _0x788d94.react('⬆️');
-    let _0x3ba839 = "\n*❖sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴍꜰɪʀᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ❖*\n*ꜰɪʟᴇ ɴᴀᴍᴇ :* " + _0x107843 + "\n\n*ꜰɪʟᴇ ᴛʏᴘᴇ :* " + _0xecfe76 + "\n\n> sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ✻\n        ";
+    let _0x3ba839 = "\n*❖🇺🇸🇲🇦🇳-🇲🇩 ᴍꜰɪʀᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ❖*\n*ꜰɪʟᴇ ɴᴀᴍᴇ :* " + _0x107843 + "\n\n*ꜰɪʟᴇ ᴛʏᴘᴇ :* " + _0xecfe76 + "\n\n> sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ✻\n        ";
     await _0x3ab728.sendMessage(_0x47d2c3, {
       'document': {
         'url': _0x24c64d
@@ -510,7 +510,7 @@ cmd({
           'url': _0x3d32a8
         },
         'mimetype': "video/mp4",
-        'caption': "*© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱɪʟᴇɴᴛ ʟᴏᴠᴇʀ · · ·⁴³²*"
+        'caption': "*© ¢яєαтє∂ ву υѕмαη ѕєя*"
       }, {
         'quoted': _0x1b4817
       });
@@ -713,7 +713,7 @@ cmd({
                   },
                   'mimetype': "video/mp4",
                   'fileName': "MR JANIYA | " + _0x1d0aed.title + '.mp4',
-                  'caption': _0x1d0aed.title + " |  *sɪʟᴇɴᴛ ʟᴏᴠᴇʀ*\n\n> sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ"
+                  'caption': _0x1d0aed.title + " |  *🇺🇸🇲🇦🇳  🇸🇪🇷*\n\n> 🇺🇸🇲🇦🇳-🇲🇩"
                 }, {
                   'quoted': _0x171143
                 });
@@ -775,7 +775,7 @@ cmd({
     let _0xd49d48 = '.' + _0x9dad20;
     let _0x1d38a3 = _0x35ebe9.datalist.list[0x0].size / 0xf4240;
     let _0x5a853a = _0x1d38a3 - _0xd49d48;
-    let _0x408ceb = "\n*❖sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴀᴘᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ❖*  \n*🏷️ Nᴀᴍᴇ :* " + _0x35ebe9.datalist.list[0x0].name + "\n\n*📦 Sɪᴢᴇ :* " + _0x5a853a + "MB\n\n*🔖 Pᴀᴄᴋᴀɢᴇ :* " + _0x35ebe9.datalist.list[0x0]['package'] + "\n\n*📆 Lᴀꜱᴛ Uᴘᴅᴀᴛᴇ :* " + _0x35ebe9.datalist.list[0x0].updated + "\n\n*👤 Dᴇᴠᴇʟᴏᴘᴇʀꜱ :* " + _0x35ebe9.datalist.list[0x0].developer.name + "\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²\n";
+    let _0x408ceb = "\n*❖🇺🇸🇲🇦🇳-🇲🇩 ᴀᴘᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ❖*  \n*🏷️ Nᴀᴍᴇ :* " + _0x35ebe9.datalist.list[0x0].name + "\n\n*📦 Sɪᴢᴇ :* " + _0x5a853a + "MB\n\n*🔖 Pᴀᴄᴋᴀɢᴇ :* " + _0x35ebe9.datalist.list[0x0]['package'] + "\n\n*📆 Lᴀꜱᴛ Uᴘᴅᴀᴛᴇ :* " + _0x35ebe9.datalist.list[0x0].updated + "\n\n*👤 Dᴇᴠᴇʟᴏᴘᴇʀꜱ :* " + _0x35ebe9.datalist.list[0x0].developer.name + "\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²\n";
     await _0x3cbff5.react('⬆');
     await _0x56da32.sendMessage(_0xbd3b9f, {
       'document': {
@@ -984,7 +984,7 @@ cmd({
         },
         'mimetype': _0x5736f7.data.result.mimetype,
         'fileName': _0x5736f7.data.result.fileName,
-        'caption': "> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²"
+        'caption': "> © ρσɯҽɾҽԃ Ⴆყ υʂɱαɳ-ɱԃ"
       }, {
         'quoted': _0x5afcc4
       });
