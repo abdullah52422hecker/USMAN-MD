@@ -18,14 +18,14 @@ var inital = new Date().getTime();
 let ping = await conn.sendMessage(from , { text: '*_ZINDA HUU...🚀_*'  }, { quoted: mek } )
 var final = new Date().getTime();
 await conn.sendMessage(from, { edit: ping.key })
-return await conn.sendMessage(from , { text: '*_🔥SILENT-SOBX-MD SPEED:_*\n *' + (final - inital) + ' ms* ',
+return await conn.sendMessage(from , { text: '*_🔥USMAN-MD SPEED:_*\n *' + (final - inital) + ' ms* ',
                               contextInfo: {
                 mentionedJid: [sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363189714152560@newsletter',
-                    newsletterName: "sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ",
+                    newsletterName: "🇺🇸🇲🇦🇳-🇲🇩",
                     serverMessageId: 143
                 }
             }
@@ -68,7 +68,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
         const end = new Date().getTime();
         const responseTime = (end - start) / 1000;
 
-        const text = `> *_↻SILENT-SOBX-MD SPEED: ${responseTime.toFixed(2)}ms ${reactionEmoji}_*`;
+        const text = `> *_↻USMAN-MD SPEED: ${responseTime.toFixed(2)}ms ${reactionEmoji}_*`;
 
         await conn.sendMessage(from, {
             text,
@@ -78,7 +78,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363189714152560@newsletter',
-                    newsletterName: "sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ",
+                    newsletterName: "🇺🇸🇲🇦🇳-🇲🇩",
                     serverMessageId: 143
                 }
             }
