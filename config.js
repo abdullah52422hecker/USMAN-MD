@@ -24,7 +24,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "DARK-SILENCE-MD~KEtxnIIb#q8CCCbReBNCri9tHAWA_dN4RsBXWJPNfzuHzoTfXvWE",
+    SESSION_ID: process.env.SESSION_ID || "USMAN-MD~KEtxnIIb#q8CCCbReBNCri9tHAWA_dN4RsBXWJPNfzuHzoTfXvWE",
     CAPTION: process.env.CAPTION || "POWERED BY USMAN-MD",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
@@ -33,7 +33,7 @@ module.exports = {
     AUTO_VOICE: process.env.AUTO_VOICE || "true",
     AUTO_STICKER: process.env.AUTO_STICKER || "false",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.postimg.cc/y8ByTMKf/Screenshot-20250908-015049-01.jpg",
+    ALIVE_IMG: process.env.ALIVE_IMG || "https://i.imghippo.com/files/Vwr4563xTk.jpg",
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M USMAN-MD WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_CALL: process.env.ANTI_CALL || "true",
