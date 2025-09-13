@@ -293,7 +293,7 @@ if (!isCreator && !isDev && !isOwner && !isMe) return reply(msr.own_cmd)
 if (!q) return reply("*Please write the Group Link*️ 🖇️")
  let result = args[0].split('https://chat.whatsapp.com/')[1]
  await conn.groupAcceptInvite(result)
-     await conn.sendMessage(from , { text: `✔️ *SUCCESSFULLY JOINED SILENT-SOBX-MD*`}, { quoted: mek } )
+     await conn.sendMessage(from , { text: `✔️ *SUCCESSFULLY JOINED USMAN-MD*`}, { quoted: mek } )
 } catch (e) {
 await conn.sendMessage(from, { react: { text: '❌', key: mek.key } })
 console.log(e)
@@ -378,7 +378,7 @@ if (!isBotAdmins) return reply(msr.give_adm)
 			if (!users) return reply("*_SWIPE ANY USER TO USE THIS ACTION..🚀_* ❌")
 
 			await conn.groupParticipantsUpdate(from, [users], "remove")
-			await conn.sendMessage(from,{text:`*SUCCESSFULLY REMOVED BY SILENT-SOBX-MD*  ✔️`},{quoted:mek })
+			await conn.sendMessage(from,{text:`*SUCCESSFULLY REMOVED BY USMAN-MD*  ✔️`},{quoted:mek })
 	
 } catch (e) {
 await conn.sendMessage(from, { react: { text: '❌', key: mek.key } })
@@ -412,7 +412,7 @@ if (!isBotAdmins) return reply(msr.give_adm)
 		const groupAdmins = await getGroupAdmins(participants) 
 		if  ( groupAdmins.includes(users)) return reply('❗ *USER ALREADY AN ADMIN..🚀*  ✔️')
 		    await conn.groupParticipantsUpdate(from, [users], "promote")
-			await conn.sendMessage(from,{text:`*USER PROMOTED AS AN ADMIN BY SILENT-SOBX-MD*  ✔️`},{quoted:mek })
+			await conn.sendMessage(from,{text:`*USER PROMOTED AS AN ADMIN BY USMAN-MD*  ✔️`},{quoted:mek })
 	
 } catch (e) {
 await conn.sendMessage(from, { react: { text: '❌', key: mek.key } })
