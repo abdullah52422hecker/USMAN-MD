@@ -1,7 +1,7 @@
 {
   "name": "USMAN-MD",
   "description": " υѕмαη мυℓтι ∂єνι¢є вσт",
-  "logo": "https://i.postimg.cc/y8ByTMKf/Screenshot-20250908-015049-01.jpg",
+  "logo": "https://i.imghippo.com/files/Vwr4563xTk.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "you can use this public mongodb url if you have your personal key So you can use him.",
       "required": true,
-      "value": "https://i.postimg.cc/y8ByTMKf/Screenshot-20250908-015049-01.jpg"
+      "value": "https://i.imghippo.com/files/Vwr4563xTk.jpg"
     },
 
     "ALIVE_MSG": {
