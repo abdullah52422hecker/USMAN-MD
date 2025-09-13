@@ -151,7 +151,7 @@ console.log("SESSION DOWNLOADED SUCCESSFULLY ✅")
 `;
 conn.sendMessage(conn.user.id,{
   image: {
-    url: `https://i.postimg.cc/x8VLPrcb/20250907-235759.png`
+    url: `https://i.imghippo.com/files/Vwr4563xTk.jpg`
   },
   caption: up,
   contextInfo: {
@@ -160,7 +160,7 @@ conn.sendMessage(conn.user.id,{
     //forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363420473990639@newsletter',
+      newsletterJid: '120363189714152560@newsletter',
       newsletterName: "USMAN-MD",
       serverMessageId: 999
     },
@@ -169,7 +169,7 @@ conn.sendMessage(conn.user.id,{
       body: 'USMAN SER',
       mediaType: 1,
       sourceUrl: "https://github.com/usmanser71/USMAN-MD",
-      thumbnailUrl: "https://i.postimg.cc/x8VLPrcb/20250907-235759.png",
+      thumbnailUrl: "https://i.imghippo.com/files/Vwr4563xTk.jpg",
       renderLargerThumbnail: true,
       showAdAttribution: true
     }
