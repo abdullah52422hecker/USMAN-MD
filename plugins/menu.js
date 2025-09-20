@@ -49,15 +49,15 @@ let desc = `🌟 *𝑮𝑶𝑶𝑫 ${new Date().getHours() < 12 ? '𝑴𝑶𝑹�
 
 const vv = await conn.sendMessage(from, { 
   image: { url: config.ALIVE_IMG }, 
-  caption: `「 *𝐔𝐒𝐌𝐀𝐍 𝐌𝐃 𝐌𝐄𝐍𝐔* 」\n${desc}`, 
+  caption: `「 *𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 𝐌𝐄𝐍𝐔* 」\n${desc}`, 
   contextInfo: { 
     mentionedJid: [''], 
     groupMentions: [], 
     forwardingScore: 999, 
     isForwarded: true, 
     forwardedNewsletterMessageInfo: { 
-      newsletterJid: '120363189714152560@newsletter', 
-      newsletterName: "USMAN-MD-MENU", 
+      newsletterJid: '120363420473990639@newsletter', 
+      newsletterName: "𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 𝐌𝐄𝐍𝐔", 
       serverMessageId: 999 
     }, 
     externalAdReply: { 
@@ -119,8 +119,8 @@ await conn.sendMessage(from, { image: { url:`https://files.catbox.moe/8fy6up.jpg
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -156,8 +156,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner01,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -196,8 +196,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner1,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -247,8 +247,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner2,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -282,8 +282,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner3,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -314,8 +314,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner4,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -345,8 +345,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner5,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -371,8 +371,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner6,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -398,8 +398,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner7,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -432,8 +432,8 @@ await conn.sendMessage(from, { image: { url:config.ALIVE_IMG}, caption: owner8,
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363189714152560@newsletter',
-          newsletterName: '𝐔𝐒𝐌𝐀𝐍 𝐌𝐃',
+          newsletterJid: '120363420473990639@newsletter',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
