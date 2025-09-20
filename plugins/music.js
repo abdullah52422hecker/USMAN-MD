@@ -24,7 +24,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         const data = search.videos[0];
         const url = data.url;
 
-        let desc = `*╭━━〔 SILENT-SOBX-MD 〕━━┈⊷*
+        let desc = `*╭━━〔 USMAN-MD 〕━━┈⊷*
         *_❖ USMAN-MD MUSIC DOWNLOADER ❖_*
         
 > *\`➤ TITLE\` :* *${data.title}*
@@ -46,7 +46,7 @@ await conn.sendMessage(from, { image: { url: data.thumbnail }, caption: desc,
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363189714152560@newsletter',
+      newsletterJid: '120363420473990639@newsletter',
       newsletterName: 'USMAN-MD',
       serverMessageId: 999
     }
@@ -64,7 +64,7 @@ await conn.sendMessage(from,{audio:{url: downloadUrl },mimetype:"audio/mpeg",cap
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363189714152560@newsletter',
+      newsletterJid: '120363420473990639@newsletter',
       newsletterName: 'USMAN-MD',
       serverMessageId: 999
     }
@@ -77,7 +77,7 @@ await conn.sendMessage(from,{document:{url: downloadUrl },mimetype:"audio/mpeg",
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363189714152560@newsletter',
+      newsletterJid: '120363420473990639@newsletter',
       newsletterName: 'USMAN-MD',
       serverMessageId: 999
     }
@@ -108,7 +108,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
       const data = search.videos[0];
       const url = data.url;
 
-      let desc = `*╭━━〔 𝐔𝐒𝐌𝐀𝐍 𝐌𝐃 〕━━┈⊷*
+      let desc = `*╭━━〔 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 〕━━┈⊷*
         *_❖ USMAN-MD VIDEO DOWNLOADER ❖_*
         
 > *\`➤ TITLE\` :* *${data.title}*
@@ -131,7 +131,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363189714152560@newsletter',
+      newsletterJid: '120363420473990639@newsletter',
       newsletterName: 'USMAN-MD',
       serverMessageId: 999
     }
@@ -153,7 +153,7 @@ contextInfo: {
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363189714152560@newsletter',
+      newsletterJid: '120363420473990639@newsletter',
       newsletterName: 'USMAN-MD',
       serverMessageId: 999
     }
@@ -166,7 +166,7 @@ contextInfo: {
     forwardingScore: 999,
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363189714152560@newsletter',
+      newsletterJid: '120363420473990639@newsletter',
       newsletterName: 'USMAN-MD',
       serverMessageId: 999
     }
