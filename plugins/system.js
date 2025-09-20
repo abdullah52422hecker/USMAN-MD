@@ -108,7 +108,7 @@ mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterJid: '120363420473990639@newsletter',
                     newsletterName: '🇺🇸🇲🇦🇳-🇲🇩',
                     serverMessageId: 143
                 }
@@ -247,7 +247,7 @@ ${config.CAPTION}`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterJid: '120363420473990639@newsletter',
                     newsletterName: config.OWNER_NAME || 'USMAN-MD',
                     serverMessageId: 143
                 }
@@ -297,7 +297,7 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterJid: '120363420473990639@newsletter',
                     newsletterName: 'USMAN-MD',
                     serverMessageId: 143
                 }
@@ -314,7 +314,7 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363189714152560@newsletter',
+                    newsletterJid: '120363420473990639@newsletter',
                     newsletterName: 'USMAN-MD',
                     serverMessageId: 143
                 }
