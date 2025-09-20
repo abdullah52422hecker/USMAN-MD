@@ -76,7 +76,7 @@ try{
 
 
 
-/*
+
  cmd({
   pattern: "vv",
   alias: ['retrive', '🔥'],
@@ -155,4 +155,5 @@ try{
     reply("i can't download This media try again");
   }
 });*/
+
 
