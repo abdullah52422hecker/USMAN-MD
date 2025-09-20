@@ -14,7 +14,7 @@ try{
 let res = await axios.get(`https://api.davidcyriltech.my.id/ssweb?url=${q}`)
 let wm = `*_•||•USMAN-MD WEB SS DOWNLOADER•||•_*
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²*`
+> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ 🇺🇸🇲🇦🇳-🇲🇩*`
 await conn.sendMessage(from, { image: { url: res.data.screenshotUrl }, caption: wm}, { quoted: mek })
 } catch (e) {
 reply(cants)
