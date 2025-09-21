@@ -1,0 +1,66 @@
+/*
+  ██╗   ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗      ███╗   ███╗██████╗ 
+  ██║   ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║     ████╗ ████║██╔══██╗
+  ██║   ██║███████╗██╔████╔██║███████║██╔██╗ ██║███╗██╔████╔██║██║  ██║
+  ██║   ██║╚════██║██║╚██╔╝██║██╔══██║██║╚██╗██║╚══╝██║╚██╔╝██║██║  ██║
+  ╚██████╔╝███████║██║ ╚═╝ ██║██║  ██║██║ ╚████║     ██║ ╚═╝ ██║██████╔╝
+   ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝      ╚═╝     ╚═╝╚═════╝ 
+                                                                       
+created by USMAN SER 🕵
+contact me 923351300388 ♻️
+© Copy coder alert ⚠
+*/
+
+
+
+
+
+const axios = require("axios");
+const FormData = require('form-data');
+const fs = require('fs');
+const os = require('os');
+const path = require("path");
+const { cmd, commands } = require("../command");
+
+cmd({
+  'pattern': "url",
+  'alias': ["upload","tourl","img2url"],
+  'react': '📤',
+  'desc': "Upload files to Catbox",
+  'category': 'tools',
+  'use': ".url9",
+  'filename': __filename
+}, async (_conn, mek, m, {
+  from,
+  quoted,
+  reply
+}) => {
+  try {
+    let msg = mek.quoted ? mek.quoted : mek;
+    let mimeType = (msg.msg || msg).mimetype || '';
+
+    if (!mimeType) throw "_❌ Reply to a file to upload url!_";
+
+    let media = await msg.download();
+    let tempPath = path.join(os.tmpdir(), 'uploadedFile');
+    fs.writeFileSync(tempPath, media);
+
+    let form = new FormData();
+    form.append("reqtype", "fileupload");
+    form.append("fileToUpload", fs.createReadStream(tempPath));
+
+    let uploadResponse = await axios.post("https://catbox.moe/user/api.php", form, {
+      headers: { ...form.getHeaders() }
+    });
+
+    if (!uploadResponse.data) throw "❌ Upload failed.";
+
+    let fileUrl = uploadResponse.data.trim();
+    fs.unlinkSync(tempPath);
+
+    reply(`*✅USMAN-MD FILE UPLOADED SUCCESSFULLY!*\n\n📤 *LINK 🔗 :* ${fileUrl}\n\n> © POWERD BY USMAN-MD ♥️`);
+  } catch (error) {
+    reply("❌ " + error);
+    console.error(error);
+  }
+});
