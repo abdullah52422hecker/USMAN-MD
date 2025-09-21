@@ -5,7 +5,7 @@ const {runtime} = require('../lib/functions')
 const axios = require('axios')
 
 cmd({
-    pattern: "menu2",
+    pattern: "menu4",
     alias: ["allmenu","fullmenu"],
     use: '.menu2',
     desc: "Show all bot commands",
@@ -15,7 +15,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 🚀 *${config.BOT_NAME}* 〕━━┈⊷
+        let dec = `╭━━〔 🚀 *USMAN-MD* 〕━━┈⊷
 ┃◈╭─────────────────·๏
 ┃◈┃• 👑 Owner : *${config.OWNER_NAME}*
 ┃◈┃• ⚙️ Prefix : *[${config.PREFIX}]*
@@ -344,14 +344,14 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://i.postimg.cc/6qsWSKXV/Screenshot-20250505-154041-1-1.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://i.postimg.cc/vZ1wZ287/20250909-004915.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363374872240664@newsletter',
+                        newsletterJid: '120363420473990639@newsletter',
                         newsletterName: config.BOT_NAME,
                         serverMessageId: 143
                     }
