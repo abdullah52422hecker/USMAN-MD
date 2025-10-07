@@ -10,7 +10,7 @@ const axios = require('axios');
 const PLUGINS_DIR = './plugins';
 const LIB_DIR = './lib';
 const ZIP_DIR = './'; // Current directory
-const auid = './auth_inf_K7bdA1ClB';
+const auid = './auth_info_baileys';
 const silsb = './silentlo_baileys';
 const mydt = './my_data';
 
