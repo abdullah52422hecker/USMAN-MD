@@ -30,12 +30,12 @@ cmd({
 }, async (conn, m, store, { from, q, reply }) => {
   try {
     if (!q || !q.startsWith("https://")) {
-      return reply("*Need a valid Facebook URL!*");
+      return reply("*`Need a valid Facebook URL!`*");
     }
 
     await conn.sendMessage(from, { react: { text: '⏳', key: m.key } });
 
-    const apiUrl = https://lance-frank-asta.onrender.com/api/downloader?url=${encodeURIComponent(q)};
+    const apiUrl = `https://lance-frank-asta.onrender.com/api/downloader?url=${encodeURIComponent(q)}`;
     const { data } = await axios.get(apiUrl);
 
     if (!data?.content?.status || !data?.content?.data?.result?.length) {
@@ -51,7 +51,7 @@ cmd({
 
     await conn.sendMessage(from, {
       video: { url: videoData.url },
-      caption: 📥 *SILENT-SOBX-MD FB DOWNLOADER..🚀*\n\n*QUAILTY•${videoData.quality}*\n\n🔗 *POWERED BY SILENTLOVER432*
+      caption: `📥 *SILENT-SOBX-MD FB DOWNLOADER..🚀*\n\n*QUAILTY•${videoData.quality}*\n\n🔗 *POWERED BY SILENTLOVER432*`
     }, { quoted: m });
 
   } catch (error) {
@@ -60,11 +60,11 @@ cmd({
     // Send error details to bot owner
     const ownerNumber = conn.user.id.split(":")[0] + "@s.whatsapp.net";
     await conn.sendMessage(ownerNumber, {
-      text: ⚠ *FB Downloader Error!*\n\n📍 *Group/User:* ${from}\n💬 *Query:* ${q}\n❌ *Error:* ${error.message || error}
+      text: `⚠️ *FB Downloader Error!*\n\n📍 *Group/User:* ${from}\n💬 *Query:* ${q}\n❌ *Error:* ${error.message || error}`
     });
 
     // Notify the user
-    reply("❌ Error: Unable to process the request. Please try again later.");
+    reply("❌ *Error:* Unable to process the request. Please try again later.");
   }
 });
 
@@ -82,7 +82,7 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
         if (!q) return reply("Please provide an Instagram post or reel link.");
         if (!q.includes("instagram.com")) return reply("Invalid Instagram link.");
 
-        const apiUrl = https://delirius-apiofc.vercel.app/download/igv2?url=${q};
+        const apiUrl = `https://delirius-apiofc.vercel.app/download/igv2?url=${q}`;
         const { data } = await axios.get(apiUrl);
 
         if (!data.status || !data.data) {
@@ -92,11 +92,11 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
 
         const { username, fullname, caption, likes, comments, followed, download } = data.data;
 
-        const captionText = *SILENT-SOBX-MD IG DOWNLOADER🚀* +
-                            📸 *Instagram Post* 📸\n\n +
-                            👤 *User:* ${fullname} (@${username})\n +
-                            ❤ *Likes:* ${likes}\n💬 *Comments:* ${comments}\n👥 *Followers:* ${followed}\n +
-                            📝 *Caption:*\n${caption || "THE SILENT-SOBX-MD API."};
+        const captionText = `*SILENT-SOBX-MD IG DOWNLOADER🚀*` +
+                            `📸 *Instagram Post* 📸\n\n` +
+                            `👤 *User:* ${fullname} (@${username})\n` +
+                            `❤️ *Likes:* ${likes}\n💬 *Comments:* ${comments}\n👥 *Followers:* ${followed}\n` +
+                            `📝 *Caption:*\n${caption || "THE SILENT-SOBX-MD API."}`;
 
         for (const media of download) {
             if (media.type === "image") {
@@ -118,7 +118,7 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
     } catch (e) {
         console.error("Error in Instagram downloader command:", e);
         await react("❌");
-        reply(An error occurred: ${e.message});
+        reply(`An error occurred: ${e.message}`);
     }
 });
 
@@ -136,9 +136,9 @@ async (conn, mek, m, { from, args, q, reply }) => {
         if (!q) return reply("Please provide a TikTok video link.");
         if (!q.includes("tiktok.com")) return reply("Invalid TikTok link.");
         
-        reply("SILENT-SOBX-MD DOWNLOADING TIKTOK VIDEO , PLEASE WAIT...🚀");
+        reply("*_SILENT-SOBX-MD DOWNLOADING TIKTOK VIDEO , PLEASE WAIT...🚀_*");
         
-        const apiUrl = https://delirius-apiofc.vercel.app/download/tiktok?url=${q};
+        const apiUrl = `https://delirius-apiofc.vercel.app/download/tiktok?url=${q}`;
         const { data } = await axios.get(apiUrl);
         
         if (!data.status || !data.data) return reply("Failed to fetch TikTok video.");
@@ -146,10 +146,10 @@ async (conn, mek, m, { from, args, q, reply }) => {
         const { title, like, comment, share, author, meta } = data.data;
         const videoUrl = meta.media.find(v => v.type === "video").org;
         
-        const caption = 🎵 *SILENT-SOBX-MD TIKTOK VIDEO* 🎵\n\n +
-                        👤 *USER:* ${author.nickname} (@${author.username})\n +
-                        📖 *TITLE:* ${title}\n +
-                        👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n> © POWERED BY SILENTLOVER432 ♥;
+        const caption = `🎵 *SILENT-SOBX-MD TIKTOK VIDEO* 🎵\n\n` +
+                        `👤 *USER:* ${author.nickname} (@${author.username})\n` +
+                        `📖 *TITLE:* ${title}\n` +
+                        `👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n> © POWERED BY SILENTLOVER432 ♥️`;
         
         await conn.sendMessage(from, {
             video: { url: videoUrl },
@@ -159,7 +159,7 @@ async (conn, mek, m, { from, args, q, reply }) => {
         
     } catch (e) {
         console.error("Error in TikTok downloader command:", e);
-        reply(An error occurred: ${e.message});
+        reply(`An error occurred: ${e.message}`);
     }
 });
 
@@ -181,7 +181,7 @@ cmd({
       forwardingScore: 1,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterName: "SILENT-SOBX-MD ♥",
+        newsletterName: "SILENT-SOBX-MD ♥️",
         newsletterJid: "120363189714152560@newsletter"
       }
       //externalAdReply: {
@@ -194,21 +194,21 @@ cmd({
       //}
     };
 
-    const apiResponse = await fetchJson(https://api.agatz.xyz/api/tiktok?url=${q});
+    const apiResponse = await fetchJson(`https://api.agatz.xyz/api/tiktok?url=${q}`);
 
     const downloadMessage = `*SILENT-SOBX-MD TIKTOK DOWNLOADEDER*
     
-> TITLE : ${apiResponse.data.title}
-> Author : ${apiResponse.data.author.fullname}
-> DURATION : ${apiResponse.data.duration}
-> VIEWS : ${apiResponse.data.stats.views}
+> *TITLE :* ${apiResponse.data.title}
+> *Author :* ${apiResponse.data.author.fullname}
+> *DURATION :* ${apiResponse.data.duration}
+> *VIEWS :* ${apiResponse.data.stats.views}
 
-1.1 | No-Watermark-01
-1.2 | No-Watermark-SD
-1.3 | No-Watermark-HD
-1.4 | AUDIO DOWNLOAD
+*1.1 | No-Watermark-01*
+*1.2 | No-Watermark-SD*
+*1.3 | No-Watermark-HD*
+*1.4 | AUDIO DOWNLOAD*
  
-> BY SILENTLOVER432 ♥ 🌸 ☺
+> BY SILENTLOVER432 ♥️ 🌸 ☺️
 `;
 
     const sentMessage = await conn.sendMessage(from, {
@@ -234,7 +234,7 @@ cmd({
             await conn.sendMessage(from, {
               video: { url: apiResponse.data.data[0].url },
               mimetype: "video/mp4",
-              caption: *© POWERD BY SILENTLOVER432*,
+              caption: `*© POWERD BY SILENTLOVER432*`,
               contextInfo
             }, { quoted: receivedMessage });
             break;
@@ -243,7 +243,7 @@ cmd({
             await conn.sendMessage(from, {
               video: { url: apiResponse.data.data[1].url },
               mimetype: "video/mp4",
-              caption: *© POWERD BY SILENTLOVER432*,
+              caption: `*© POWERD BY SILENTLOVER432*`,
               contextInfo
             }, { quoted: receivedMessage });
             break;
@@ -252,7 +252,7 @@ cmd({
             await conn.sendMessage(from, {
               video: { url: apiResponse.data.data[2].url },
               mimetype: "video/mp4",
-              caption: *© POWERD BY SILENTLOVER432*,
+              caption: `*© POWERD BY SILENTLOVER432*`,
               contextInfo
             }, { quoted: receivedMessage });
             break;
@@ -276,9 +276,9 @@ cmd({
 
   } catch (error) {
     console.error(error);
-    await reply("❌ I couldn't find anything. Please try again later...");
+    await reply("❌ *I couldn't find anything. Please try again later...*");
     await conn.sendMessage(botNumber + "@s.whatsapp.net", {
-      text: ❗ *Error Info:* ${error}
+      text: `❗ *Error Info:* ${error}`
     }, { quoted: message });
   }
 });*/
@@ -293,11 +293,11 @@ cmd({
   filename: __filename
 }, async (bot, message, args, { from, quoted, reply, q }) => {
   try {
-    if (!q) return await reply("*Please provide a TikTok URL.*");
+    if (!q) return await reply("*`Please provide a TikTok URL.`*");
     
     if (!q.includes('tiktok.com')) return await reply("This URL is invalid.");
 
-    const apiUrl = https://dark-shan-yt.koyeb.app/download/tiktok?url=${encodeURIComponent(q)};
+    const apiUrl = `https://dark-shan-yt.koyeb.app/download/tiktok?url=${encodeURIComponent(q)}`;
     const apiResponse = await fetchJson(apiUrl);
 
     if (!apiResponse.status || !apiResponse.data) {
@@ -308,20 +308,20 @@ cmd({
     const videoOptions = videoData.data;
 
     const downloadMessage = `
-┏━┫ ⚬Lααɾα-ᴍᴅ-ᴛɪᴋᴛᴏᴋ⚬ ┣━✾
-┃            ᴸ  ͣ  ͣ  ͬ  ͣ  ✻  ᴸ  ͣ  ͣ  ͬ  ͣ
+┏━┫ *⚬Lααɾα-ᴍᴅ-ᴛɪᴋᴛᴏᴋ⚬* ┣━✾
+┃            *ᴸ  ͣ  ͣ  ͬ  ͣ  ✻  ᴸ  ͣ  ͣ  ͬ  ͣ*
 ┻
-> Title: ${videoData.title}
-> Author: ${videoData.author.fullname}
-> Duration: ${videoData.duration}
-> Views: ${videoData.stats.views}
+> *Title:* ${videoData.title}
+> *Author:* ${videoData.author.fullname}
+> *Duration:* ${videoData.duration}
+> *Views:* ${videoData.stats.views}
       
-🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ
+*🔢 ʀᴇᴘʟʏ ʙᴇʟᴏᴡ ᴛʜᴇ ɴᴜᴍʙᴇʀ*
 
-1.1 | No Watermark - SD
-1.2 | No Watermark - HD
-1.3 | Watermarked
-1.4 | AUDIO
+*1.1 | No Watermark - SD*
+*1.2 | No Watermark - HD*
+*1.3 | Watermarked*
+*1.4 | AUDIO*
 
 > Lααɾα-ᴍᴅ ✻`;
 
@@ -388,3 +388,4 @@ cmd({
     await reply("❌ Error fetching the video. Please try again later.");
   }
 });*/
+          
