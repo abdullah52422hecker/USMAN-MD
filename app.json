@@ -1,0 +1,42 @@
+{
+  "name": "USMAN-MD",
+  "description": " υѕмαη мυℓтι ∂єνι¢є вσт",
+  "logo": "https://i.imghippo.com/files/Vwr4563xTk.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "value": "USMAN-MD~KQFCkDiZ#b13bxGAufrB--CE2LnAFACTbhSSPYZAKtIRsvpF62_M"
+    },  
+    
+    "ALIVE_IMG": {
+      "description": "you can use this public mongodb url if you have your personal key So you can use him.",
+      "required": true,
+      "value": "https://i.imghippo.com/files/Vwr4563xTk.jpg"
+    },
+
+    "ALIVE_MSG": {
+      "description": "you can use this public mongodb url if you have your personal key So you can use him.",
+      "required": true,
+      "value": "*🤍HII USMAN-MD ONLINE DEAR*"
+   }, 
+
+        "INBOX_BLOCK": {
+      "description": "you can use this public mongodb url if you have your personal key So you can use him.",
+      "required": true,
+      "value": "false"
+   }
+   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
