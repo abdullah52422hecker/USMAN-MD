@@ -61,7 +61,7 @@ cmd({
       },
       message: {
         contactMessage: {
-          displayName: '©️ DARK-SILENCE-MD🥷',
+          displayName: '©️ USMAN-MD🥷',
           vcard: `BEGIN:VCARD
 VERSION:3.0
 N:Alip;;;;
@@ -79,7 +79,7 @@ END:VCARD`
 
         let desc = `
 ┌────────────────⊷⦁⦂⦁
-*─⊷〔*DARK-SILENCE-MD MP3 FIND*〕━⊷*
+*─⊷〔*USMAN-MD MP3 FIND*〕━⊷*
  ☘️ *Title:* ${data.title} 🙇‍♂️🫀🎧*\n
  ⏱️ *Duration:* ${data.timestamp}
  📅 *Uploaded:* ${data.ago}
@@ -91,10 +91,10 @@ END:VCARD`
  2 │❯◦ *Document* 📂     
  3 │❯◦ *Voice Note* 🎤   
 
-*㋛ POWERED BY DARK-SILENCE-MD🥷*
+*㋛ POWERED BY USMAN-MD🥷*
 `;
 let info = `
-> *㋛ POWERED BY DARK-SILENCE-MD🥷*
+> *㋛ POWERED BY USMAN-MD🥷*
  `;   
 const sentMsg = await conn.sendMessage(from, {
             image: { url: data.thumbnail},
@@ -105,8 +105,8 @@ const sentMsg = await conn.sendMessage(from, {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363382823666763@newslette',
-                    newsletterName: "DARK-SILENCE-MD🥷",
+                    newsletterJid: '120363420473990639@newslette',
+                    newsletterName: "USMAN-MD🥷",
                     serverMessageId: 00
                 }
             }
