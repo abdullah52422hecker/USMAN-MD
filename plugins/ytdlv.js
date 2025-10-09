@@ -1,205 +1,105 @@
-const { cmd, commands } = require('../command');
-const yts = require('yt-search');
-const { fetchJson } = require('../lib/functions');
-const  { ytmp3 }= require('../lib/scrap')
-
-// Function to extract the video ID from youtu.be or YouTube links
-function extractYouTubeId(url) {
-    const regex = /(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/(?:watch\?v=|embed\/|v\/|shorts\/|playlist\?list=)|youtu\.be\/)([a-zA-Z0-9_-]{11})/;
-    const match = url.match(regex);
-    return match ? match[1] : null;
-}
-
-// Function to convert any YouTube URL to a full YouTube watch URL
-function convertYouTubeLink(q) {
-    const videoId = extractYouTubeId(q);
-    if (videoId) {
-        return https://www.youtube.com/watch?v=${videoId};
-    }
-    return q;
-}
-
+const {
+  cmd
+} = require("../command");
+const fetch = require("node-fetch");
+const yts = require("yt-search");
 cmd({
-    pattern: "song",
-    alias: ["play"],
-    desc: "To download songs.",
-    react: "🎵",
-    category: "download",
-    filename: __filename
-}, async (conn, mek, m, {
-  from,
-  quoted,
-  body,
-  isCmd,
-  command,
-  args,
-  q,
-  isGroup,
-  sender,
-  senderNumber,
-  botNumber2,
-  botNumber,
-  pushname,
-  isMe,
-  isOwner,
-  groupMetadata,
-  groupName,
-  participants,
-  groupAdmins,
-  isBotAdmins,
-  isAdmins,
-  reply
+  'pattern': "play",
+  'alias': ['song', "mp3"],
+  'desc': "Download YouTube Audio",
+  'category': 'downloader',
+  'react': '💓,✅',
+  'filename': __filename
+}, async (_0x54d9ac, _0x5aa73c, _0x3dc390, {
+  from: _0x1d9214,
+  q: _0x4b1135,
+  reply: _0x13cbf0
 }) => {
   try {
-    
-    const lipx = {
-      key: {
-        remoteJid: "status@broadcast",
-        fromMe: false,
-        id: 'FAKE_META_ID_001',
-        participant: '13135550002@s.whatsapp.net'
-      },
-      message: {
-        contactMessage: {
-          displayName: '© DARK-SILENCE-MD🥷',
-          vcard: `BEGIN:VCARD
-VERSION:3.0
-N:Alip;;;;
-FN:Alip
-TEL;waid=13135550002:+1 313 555 0002
-END:VCARD`
-        }
-      }
-    };
-        q = convertYouTubeLink(q);
-        if (!q) return reply("*Need YT_URL or Title*");
-        const search = await yts(q);
-        const data = search.videos[0];
-        const url = data.url;
-
-        let desc = `
-┌────────────────⊷⦁⦂⦁
-─⊷〔*DARK-SILENCE-MD MP3 FIND〕━⊷*
- ☘ Title: ${data.title} 🙇‍♂🫀🎧*\n
- ⏱ Duration: ${data.timestamp}
- 📅 Uploaded: ${data.ago}
- 🎭 Views: ${data.views}
-└────────────────⊷⦁⦂⦁
-🔢 Reply below number
-
- 1 │❯◦ Audio 🎶          
- 2 │❯◦ Document 📂     
- 3 │❯◦ Voice Note 🎤   
-
-㋛ POWERED BY DARK-SILENCE-MD🥷
-`;
-let info = `
-> ㋛ POWERED BY DARK-SILENCE-MD🥷
- `;   
-const sentMsg = await conn.sendMessage(from, {
-            image: { url: data.thumbnail},
-            caption: desc,
-  contextInfo: {
-                mentionedJid: ['94742287793@s.whatsapp.net'], // specify mentioned JID(s) if any
-                groupMentions: [],
-                forwardingScore: 1,
-                isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363382823666763@newslette',
-                    newsletterName: "DARK-SILENCE-MD🥷",
-                    serverMessageId: 00
-                }
-            }
-     }, {quoted: lipx});
-     
-     const messageID = sentMsg.key.id; // Save the message ID for later reference
-
-
-        // Listen for the user's response
-        conn.ev.on('messages.upsert', async (messageUpdate) => {
-            const msg = messageUpdate.messages[0];
-            if (!msg.message) return;
-            const messageType = msg.message.conversation || msg.message.extendedTextMessage?.text;
-            const from = msg.key.remoteJid;
-            //const from = msg.key.participant || msg.key.remoteJid;
-
-            // Check if the message is a reply to the previously sent message
-            const isReplyToSentMsg = msg.message.extendedTextMessage && msg.message.extendedTextMessage.contextInfo.stanzaId === messageID;
-
-            if (isReplyToSentMsg) {
-                // React to the user's reply (the "1" or "2" message)
-
-                // React to the upload (sending the file)
-                
-
-                if (messageType === '1') {
-                    // Handle option 1 (Audio File)
-                    await conn.sendMessage(from, { react: { text: '⬇', key: msg.key } });
-                const result = await ytmp3(url, 'mp3');
-        const downloadLink = result.downloadUrl;
-                await conn.sendMessage(from, { react: { text: '⬆', key: msg.key } });  
-                    await conn.sendMessage(from, { 
-                        audio: { url: downloadLink }, 
-                        mimetype: "audio/mpeg" ,
-                        contextInfo: {
-                            externalAdReply: {
-                                title: data.title,
-                                body: data.videoId,
-                                mediaType: 1,
-                                sourceUrl: data.url,
-                                thumbnailUrl: data.thumbnail, // This should match the image URL provided above
-                                renderLargerThumbnail: true,
-                                showAdAttribution: false
-                            }
-                        }
-                    
-                    }, { quoted: msg });
-                    await conn.sendMessage(from,);
-                
-                } else if (messageType === '2') {
-                    // Handle option 2 (Document File)
-                    await conn.sendMessage(from, { react: { text: '⬇', key: msg.key } });
-                    const result = await ytmp3(url, 'mp3');
-        const downloadLink = result.downloadUrl;
-                await conn.sendMessage(from, { react: { text: '⬆', key: msg.key } });
-                    await conn.sendMessage(from, {
-                        document: { url: downloadLink},
-                        mimetype: "audio/mp3",
-                        fileName: ${data.title}.mp3, // Ensure img.allmenu is a valid image URL or base64 encoded image
-                        caption: info
-                                            
-                      }, { quoted: msg });
-                      await conn.sendMessage(from, );
-                     } else if (messageType === '3') {
-                     await conn.sendMessage(from, { react: { text: '⬇', key: msg.key } });
-                    const result = await ytmp3(url, 'mp3');
-        const downloadLink = result.downloadUrl;
-                await conn.sendMessage(from, { react: { text: '⬆', key: msg.key } });  
-                    await conn.sendMessage(from, { 
-                        audio: { url: downloadLink }, 
-                        mimetype: "audio/mpeg" ,
-                        ptt: "true" ,
-                        contextInfo: {
-                            externalAdReply: {
-                                title: data.title,
-                                body: data.videoId,
-                                mediaType: 1,
-                                sourceUrl: data.url,
-                                thumbnailUrl: data.thumbnail, // This should match the image URL provided above
-                                renderLargerThumbnail: true,
-                                showAdAttribution: false
-                            }
-                        }
-                    
-                    }, { quoted: msg });
-                    await conn.sendMessage(from,); 
-                }
-            }
-        });
-    
-        
- } catch (e) {
-        console.log(e);
-        reply(${e});
+    if (!_0x4b1135) {
+      return _0x13cbf0("Please provide a YouTube link or search query.\n\nExample: .play Pasoori");
     }
+    let _0x2d6fc6;
+    if (_0x4b1135.includes('youtube.com') || _0x4b1135.includes("youtu.be")) {
+      _0x2d6fc6 = _0x4b1135;
+    } else {
+      let _0x450784 = await yts(_0x4b1135);
+      if (!_0x450784 || !_0x450784.videos || _0x450784.videos.length === 0x0) {
+        return _0x13cbf0("No results found.");
+      }
+      _0x2d6fc6 = _0x450784.videos[0x0].url;
+    }
+    let _0x2dbca0 = await fetch('https://gtech-api-xtp1.onrender.com/api/audio/yt?apikey=APIKEY&url=' + encodeURIComponent(_0x2d6fc6));
+    let _0x2cc18f = await _0x2dbca0.json();
+    if (!_0x2cc18f.status) {
+      return _0x13cbf0("Failed to fetch audio.");
+    }
+    let {
+      audio_url: _0x5a3e99
+    } = _0x2cc18f.result.media;
+    await _0x54d9ac.sendMessage(_0x1d9214, {
+      'audio': {
+        'url': _0x5a3e99
+      },
+      'mimetype': "audio/mpeg",
+      'ptt': false
+    }, {
+      'quoted': _0x5aa73c
+    });
+  } catch (_0xf5f4cc) {
+    _0x13cbf0("âŒ Error while fetching audio.");
+    console.log(_0xf5f4cc);
+  }
+});
+cmd({
+  'pattern': 'video',
+  'alias': ["vid", "ytv"],
+  'desc': "Download YouTube Video",
+  'category': 'downloader',
+  'react': '🪄',
+  'filename': __filename
+}, async (_0x291138, _0x40711d, _0x320efe, {
+  from: _0x3764b7,
+  q: _0x247990,
+  reply: _0x5286ec
+}) => {
+  try {
+    if (!_0x247990) {
+      return _0x5286ec("Please provide a YouTube link or search query.\n\nExample: .video Pasoori");
+    }
+    let _0x3460a4;
+    if (_0x247990.includes("youtube.com") || _0x247990.includes('youtu.be')) {
+      _0x3460a4 = _0x247990;
+    } else {
+      let _0x145978 = await yts(_0x247990);
+      if (!_0x145978 || !_0x145978.videos || _0x145978.videos.length === 0x0) {
+        return _0x5286ec("No results found.");
+      }
+      _0x3460a4 = _0x145978.videos[0x0].url;
+    }
+    let _0x32732f = await fetch("https://gtech-api-xtp1.onrender.com/api/video/yt?apikey=APIKEY&url=" + encodeURIComponent(_0x3460a4));
+    let _0x207ba6 = await _0x32732f.json();
+    if (!_0x207ba6.status) {
+      return _0x5286ec("Failed to fetch video.");
+    }
+    let {
+      video_url_hd: _0x2500e4,
+      video_url_sd: _0x1f2e71
+    } = _0x207ba6.result.media;
+    let _0x5f2691 = _0x2500e4 !== "No HD video URL available" ? _0x2500e4 : _0x1f2e71;
+    if (!_0x5f2691 || _0x5f2691.includes('No')) {
+      return _0x5286ec("No downloadable video found.");
+    }
+    await _0x291138.sendMessage(_0x3764b7, {
+      'video': {
+        'url': _0x5f2691
+      },
+      'caption': "ᴘᴏᴡᴇʀᴇᴅ ʙʏ sʜᴀʜɪᴅ-xᴍᴅ"
+    }, {
+      'quoted': _0x40711d
+    });
+  } catch (_0x4a5abf) {
+    _0x5286ec("Error while fetching video.");
+    console.log(_0x4a5abf);
+  }
 });
