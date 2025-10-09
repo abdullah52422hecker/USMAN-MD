@@ -19,8 +19,8 @@ const {
   commands
 } = require("../command");
 cmd({
-  'pattern': "tiktok",
-  'alias': ['tt'],
+  'pattern': "tiktok2",
+  'alias': ['tt2'],
   'react': '🎥',
   'desc': "download tt videos",
   'category': "download",
@@ -123,8 +123,8 @@ cmd({
   }
 });
 cmd({
-  'pattern': 'fb',
-  'alias': ["facebook"],
+  'pattern': 'fb3',
+  'alias': ["facebook3"],
   'desc': "Download Facebook videos",
   'category': "download",
   'filename': __filename
@@ -465,7 +465,7 @@ cmd({
 });
 cmd({
   'pattern': 'ig',
-  'alias': ["insta"],
+  'alias': ["insta", "fb2"],
   'desc': "To download instagram videos.",
   'react': '🎥',
   'category': "download",
