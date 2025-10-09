@@ -51,7 +51,7 @@ cmd({
 
     await conn.sendMessage(from, {
       video: { url: videoData.url },
-      caption: `📥 *SILENT-SOBX-MD FB DOWNLOADER..🚀*\n\n*QUAILTY•${videoData.quality}*\n\n🔗 *POWERED BY SILENTLOVER432*`
+      caption: `📥 *USMAN-MD FB DOWNLOADER..🚀*\n\n*QUAILTY•${videoData.quality}*\n\n🔗 *POWERED BY USMAN-SER*`
     }, { quoted: m });
 
   } catch (error) {
@@ -92,11 +92,11 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
 
         const { username, fullname, caption, likes, comments, followed, download } = data.data;
 
-        const captionText = `*SILENT-SOBX-MD IG DOWNLOADER🚀*` +
+        const captionText = `*USMAN-MD IG DOWNLOADER🚀*` +
                             `📸 *Instagram Post* 📸\n\n` +
                             `👤 *User:* ${fullname} (@${username})\n` +
                             `❤️ *Likes:* ${likes}\n💬 *Comments:* ${comments}\n👥 *Followers:* ${followed}\n` +
-                            `📝 *Caption:*\n${caption || "THE SILENT-SOBX-MD API."}`;
+                            `📝 *Caption:*\n${caption || "THE USMAN-MD API."}`;
 
         for (const media of download) {
             if (media.type === "image") {
@@ -136,7 +136,7 @@ async (conn, mek, m, { from, args, q, reply }) => {
         if (!q) return reply("Please provide a TikTok video link.");
         if (!q.includes("tiktok.com")) return reply("Invalid TikTok link.");
         
-        reply("*_SILENT-SOBX-MD DOWNLOADING TIKTOK VIDEO , PLEASE WAIT...🚀_*");
+        reply("*_USMAN-MD DOWNLOADING TIKTOK VIDEO , PLEASE WAIT...🚀_*");
         
         const apiUrl = `https://delirius-apiofc.vercel.app/download/tiktok?url=${q}`;
         const { data } = await axios.get(apiUrl);
@@ -146,10 +146,10 @@ async (conn, mek, m, { from, args, q, reply }) => {
         const { title, like, comment, share, author, meta } = data.data;
         const videoUrl = meta.media.find(v => v.type === "video").org;
         
-        const caption = `🎵 *SILENT-SOBX-MD TIKTOK VIDEO* 🎵\n\n` +
+        const caption = `🎵 *USMAN-MD TIKTOK VIDEO* 🎵\n\n` +
                         `👤 *USER:* ${author.nickname} (@${author.username})\n` +
                         `📖 *TITLE:* ${title}\n` +
-                        `👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n> ©️ POWERED BY SILENTLOVER432 ♥️`;
+                        `👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n> ©️ POWERED BY USMAN-SER ♥️`;
         
         await conn.sendMessage(from, {
             video: { url: videoUrl },
@@ -181,8 +181,8 @@ cmd({
       forwardingScore: 1,
       isForwarded: true,
       forwardedNewsletterMessageInfo: {
-        newsletterName: "SILENT-SOBX-MD ♥️",
-        newsletterJid: "120363189714152560@newsletter"
+        newsletterName: "USMAN-MD ♥️",
+        newsletterJid: "120363420473990639@newsletter"
       }
       //externalAdReply: {
         //title: "𝐒𝐄𝐎𝐍 𝐌𝐃 𝐖𝐀 𝐁𝐎𝐓",
@@ -196,7 +196,7 @@ cmd({
 
     const apiResponse = await fetchJson(`https://api.agatz.xyz/api/tiktok?url=${q}`);
 
-    const downloadMessage = `*SILENT-SOBX-MD TIKTOK DOWNLOADEDER*
+    const downloadMessage = `*USMAN-MD TIKTOK DOWNLOADEDER*
     
 > *TITLE :* ${apiResponse.data.title}
 > *Author :* ${apiResponse.data.author.fullname}
@@ -234,7 +234,7 @@ cmd({
             await conn.sendMessage(from, {
               video: { url: apiResponse.data.data[0].url },
               mimetype: "video/mp4",
-              caption: `*©️ POWERD BY SILENTLOVER432*`,
+              caption: `*©️ POWERD BY USMAN-MD*`,
               contextInfo
             }, { quoted: receivedMessage });
             break;
@@ -252,7 +252,7 @@ cmd({
             await conn.sendMessage(from, {
               video: { url: apiResponse.data.data[2].url },
               mimetype: "video/mp4",
-              caption: `*©️ POWERD BY SILENTLOVER432*`,
+              caption: `*©️ POWERD BY USMAN-MD*`,
               contextInfo
             }, { quoted: receivedMessage });
             break;
@@ -308,7 +308,7 @@ cmd({
     const videoOptions = videoData.data;
 
     const downloadMessage = `
-┏━┫ *⚬Lααɾα-ᴍᴅ-ᴛɪᴋᴛᴏᴋ⚬* ┣━✾
+┏━┫ *⚬USMAN-MD-ᴛɪᴋᴛᴏᴋ⚬* ┣━✾
 ┃            *ᴸ  ͣ  ͣ  ͬ  ͣ  ✻  ᴸ  ͣ  ͣ  ͬ  ͣ*
 ┻
 > *Title:* ${videoData.title}
@@ -366,7 +366,7 @@ cmd({
             break;
           case '1.4':
             downloadUrl = videoData.music_info.url;
-            captionText = "©️ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·*";
+            captionText = "©️ ᴄʀᴇᴀᴛᴇᴅ ʙʏ USMAN-MD · · ·*";
             break;
           default:
             return await conn.sendMessage(from, { text: "❌ Invalid option. Try again." }, { quoted: receivedMessage });
