@@ -45,7 +45,7 @@ async (conn, mek, m, { from, q, reply }) => {
 😂 *Here's a random joke for you!* 😂
 *${joke.setup}*
 ${joke.punchline} 😄
-> *POWERED BY SILENTLOVER432*
+> *POWERED BY USMAN-SER*
 `;
         return reply(jokeMessage);
     } catch (e) {
