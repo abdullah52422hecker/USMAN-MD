@@ -58,7 +58,7 @@ cmd({
     let fileUrl = uploadResponse.data.trim();
     fs.unlinkSync(tempPath);
 
-    reply(`*✅USMAN-MD FILE UPLOADED SUCCESSFULLY!*\n\n📤 *LINK 🔗 :* ${fileUrl}\n\n> © POWERD BY USMAN-MD ♥️`);
+    reply(`*✅USMAN-MD FILE UPLOADED SUCCESSFULLY!*\n\n📤 *LINK 🔗 :* ${fileUrl}\n\n> © 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 ♥️`);
   } catch (error) {
     reply("❌ " + error);
     console.error(error);
