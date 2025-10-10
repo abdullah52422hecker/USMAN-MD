@@ -374,7 +374,7 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu,
 
 // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/DARKSILENCE04/DARK-SILENCE-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20250309-WA0019.m4a' },
+            audio: { url: 'https://github.com/usmanser71/USMAN-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20250309-WA0019.m4a' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
