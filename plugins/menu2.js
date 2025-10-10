@@ -47,7 +47,7 @@ menu[commands[i].category] +=`*┃◈* ${commands[i].pattern}\n`;
 }
 
 let madeMenu = `
-*╭━━━〔 ✦$𝐔𝐒𝐌𝐀𝐍-𝐌𝐃✦ 〕━━━┈⊷*
+*╭━━━〔 ✦𝐔𝐒𝐌𝐀𝐍-𝐌𝐃✦ 〕━━━┈⊷*
 *┃★╭──────────────•*
 *┃★│* ʀᴜɴᴛɪᴍᴇ : *${runtime(process.uptime())}*
 *┃★│* ʀᴀᴍ ᴜꜱᴀɢᴇ : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB*
@@ -109,7 +109,7 @@ ${menu.utility}
 *❒⁠⁠⁠⁠▭▬▭▬▭▬▭▬▭▬▭❒*⁠⁠⁠⁠
 
 *•────────────•⟢*
-> © ρσɯҽɾҽԃ Ⴆყ υʂɱαɳ-ɱԃ
+> © 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃
 *•────────────•⟢*
 `
 
@@ -120,7 +120,7 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363420473990639@newsletter',
-          newsletterName: 'USMAN-MD',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
@@ -131,7 +131,7 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu,
     // Send audio
     await conn.sendMessage(from, {
       audio: {
-        url: 'https://github.com/DARKSILENCE04/DARK-SILENCE-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20250309-WA0019.m4a'
+        url: 'https://github.com/usmanser71/USMAN-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20250309-WA0019.m4a'
       },
       mimetype: 'audio/mpeg',
       ptt: true,
@@ -141,7 +141,7 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363420473990639@newsletter',
-          newsletterName: 'USMAN-MD',
+          newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
           serverMessageId: 143
         }
       }
