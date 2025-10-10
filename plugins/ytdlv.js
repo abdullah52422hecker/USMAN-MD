@@ -91,10 +91,10 @@ END:VCARD`
  2 │❯◦ *Document* 📂     
  3 │❯◦ *Voice Note* 🎤   
 
-*㋛ POWERED BY USMAN-MD🥷*
+*㋛ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃*
 `;
 let info = `
-> *㋛ POWERED BY USMAN-MD🥷*
+> *㋛ 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃*
  `;   
 const sentMsg = await conn.sendMessage(from, {
             image: { url: data.thumbnail},
