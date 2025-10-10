@@ -83,7 +83,7 @@
 </div>
  <tr>
       <a href="https://whatsapp.com/channel/0029Vb6IIZI5vKA4u6OoF60z" target="_blank">
-        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
+        <img alt="View Workflow Codes" src="https://img.shields.io/badge/View-WhatsApp%20Chaneel-FF0076?style=for-the-badge&logo=githubactions&logoColor=white"/>
       </a>
     </td>
   </tr>
