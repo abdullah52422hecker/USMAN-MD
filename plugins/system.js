@@ -96,7 +96,7 @@ let madeSetting =`
 *╰━━━━━━━━━━━━━━━┈⊷*
 
 *•────────────•⟢*
-> © ρσɯҽɾҽԃ Ⴆყ υʂɱαɳ-ɱԃ
+> © 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃
 *•────────────•⟢*
 `
 
@@ -109,7 +109,7 @@ mentionedJid: [m.sender],
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420473990639@newsletter',
-                    newsletterName: '🇺🇸🇲🇦🇳-🇲🇩',
+                    newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
                     serverMessageId: 143
                 }
             }
@@ -248,7 +248,7 @@ ${config.CAPTION}`;
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420473990639@newsletter',
-                    newsletterName: config.OWNER_NAME || 'USMAN-MD',
+                    newsletterName: config.OWNER_NAME || '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
                     serverMessageId: 143
                 }
             }
@@ -306,7 +306,7 @@ async (conn, mek, m, { from, reply }) => {
 
         // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/DARKSILENCE04/DARK-SILENCE-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20250309-WA0019.m4a' },
+            audio: { url: 'https://github.com/usmanser71/USMAN-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20250309-WA0019.m4a' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
