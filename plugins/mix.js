@@ -98,7 +98,7 @@ cmd({
       'image': {
         'url': 'https://dummyimage.com/600x400/&text=' + _0x77962f
       },
-      'caption': '© BY SILENTLOVER432' 
+      'caption': '© 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃' 
     }, {
       'quoted': _0x981604
     });
@@ -147,7 +147,7 @@ cmd({
       'image': {
         'url': "https://www.flamingtext.com/net-fu/proxy_form.cgi?&script=fluffy-logo&text=" + _0x2f55c3
       },
-      'caption': '> © BY SILENTLOVER432'
+      'caption': '> © 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃'
     }, {
       'quoted': _0x3de15f
     });
@@ -288,7 +288,7 @@ cmd({
       }
       let _0x550c53 = new Sticker(_0x534953 + ".jpg", {
         'pack': _0x4f2c74,
-        'author': 'ѕเℓεɳƭ_ℓσѵε૨⛱️♥️',
+        'author': 'υѕмαη-ѕєя⛱️♥️',
         'type': _0x288ad4.includes("--crop" || '-c') ? StickerTypes.CROPPED : StickerTypes.FULL,
         'categories': ['🤩', '🎉'],
         'id': "12345",
@@ -664,7 +664,7 @@ cmd({
 }) => {
   try {
     if (!_0x3c2b7a) {
-      return await _0xc99a29("*SILENT-SOBX-MD MFIRE DL*");
+      return await _0xc99a29("*𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃*");
     }
     let _0x53528f = await fetchJson("https://www.dark-yasiya-api.site/download/mfire?url=" + _0x3c2b7a);
     await _0x3b31a9.sendMessage(_0x5be8aa, {
@@ -994,7 +994,7 @@ cmd({
       'document': _0x482747.downloadUrl,
       'caption': "\n     \n   *USMAN-MD*",
       'mimetype': 'video/mp4',
-      'fileName': "🎬SILENT-SOBX-MD🎬.mp4"
+      'fileName': "🎬USMAN-MD🎬.mp4"
     };
     await _0x52d9b0.sendMessage(_0x28aedc, _0x3f5901);
   } catch (_0xe76559) {
@@ -1051,7 +1051,7 @@ cmd({
           'url': _0x2a1924
         },
         'mimetype': "video/mp4",
-        'caption': '© POWERED BY USMAN-MD'
+        'caption': '© 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃'
       }, {
         'quoted': _0x4461ca
       });
@@ -1099,7 +1099,7 @@ cmd({
       'image': {
         'url': _0x49840c.url
       },
-      'caption': "👧 *RANDOM  GIRL IMAGE* 👧\n\n> © POWERED BY USMAN-MD"
+      'caption': "👧 *RANDOM  GIRL IMAGE* 👧\n\n> © 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃"
     }, {
       'quoted': _0x1d2a3d
     });
