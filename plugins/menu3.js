@@ -39,7 +39,7 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, umarmd, args, q, isGroup, send
 
 try{
 let madeMenu = `
-*╭━━〔 ᴄᴍᴅ-ʟɪsᴛ 〕━━┈⊷*
+*╭━━〔 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 〕━━┈⊷*
 *┃◈╭─────────────·๏*
 *┃◈┃• ᴘʟᴀᴛғᴏʀᴍ* : *${process.env.DYNO ? "Heroku" : "Localhost"}*
 *┃◈┃• ᴍᴏᴅᴇ* : *[${config.MODE}]*
@@ -355,7 +355,7 @@ let madeMenu = `
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━•⟢
 
 *•────────────•⟢*
-> © ρσɯҽɾҽԃ Ⴆყ υʂɱαɳ-ɱԃ
+> © 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃
 *•────────────•⟢*
 `
 
@@ -366,7 +366,7 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420473990639@newsletter',
-                    newsletterName: 'USMAN-MD',
+                    newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
                     serverMessageId: 143
                 }
             }
@@ -383,7 +383,7 @@ await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420473990639@newsletter',
-                    newsletterName: 'USMAN-MD',
+                    newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
                     serverMessageId: 143
                 }
             }
