@@ -1,4 +1,4 @@
-# 🤖 𝗠𝗔𝗦𝗞𝗬 𝗠𝗗
+# ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴜꜱᴍᴀɴ-ᴍᴅ ᴘʀᴏᴊᴇᴄᴛ, ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ᴛᴏ ᴜꜱᴇ ʙᴀɪʟᴇʏꜱ, ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ɴᴏᴡ ᴀʟʟᴏᴡᴇᴅ ᴛᴏ ᴜꜱᴇ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ʙᴜɢ
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
