@@ -135,62 +135,6 @@ contact me 923097373710 ♻️
 
 
 
-//Created By Sadeesha Coder and Silent lover 432 don't copy without permission of owner
 
-const fs = require('fs');
-const path = require("path");
-const { File } = require("megajs");
-const AdmZip = require("adm-zip");
-const axios = require("axios");
 
-const PLUGINS_DIR = './plugins'; // Directory where plugins will be extracted
-const LIB_DIR = './lib';
-const ZIP_DIR = './'
-const auid = './auth_info_baileys'
-const silsb = './silentlover'
-const mydt = './my_data'
-
-async function downloadAndExtractZip() {
-  try {
-
-  const MEGA_ZIP_LINK = 'https://mega.nz/file/WoBgAZIK';
-  
-    if (!fs.existsSync(mydt)) {
-      fs.mkdirSync(mydt, { recursive: true });
-    }
-    if (!fs.existsSync(auid)) {
-      fs.mkdirSync(auid, { recursive: true });
-    }
-    if (!fs.existsSync(silsb)) {
-      fs.mkdirSync(silsb, { recursive: true });
-    }
-    if (!fs.existsSync(PLUGINS_DIR)) {
-      fs.mkdirSync(PLUGINS_DIR, { recursive: true });
-    }
-    if (!fs.existsSync(LIB_DIR)) {
-        fs.mkdirSync(LIB_DIR, { recursive: true });
-      }
-
-    console.log('FETCHING FILE FOR USMAN-MD 🚀❤');
-    
-    const file = File.fromURL(MEGA_ZIP_LINK);
-    const fileData = await file.downloadBuffer();
-
-    const tempZipPath = path.join(__dirname, 'temp.zip');
-    fs.writeFileSync(tempZipPath, fileData);
-    console.log(` USMAN-MD FILES DOWNLOADED SUCCESSFULLY ✅`);
-
-    const zip = new AdmZip(tempZipPath);
-    zip.extractAllTo(ZIP_DIR, true); 
-
-    console.log('USMAN-MD SUCCESSFULLY CONNECTED ENJOY ❤✅');
-
-    fs.unlinkSync(tempZipPath);
-    require("./index.js");
-
-  } catch (error) {
-    console.error('Error:', error.message);
-  }
-}
-
-downloadAndExtractZip();
+const _0x155a59=_0x4eb4;(function(_0xf59dc0,_0x3b606a){const _0x5ac580=_0x4eb4,_0x30cdcb=_0xf59dc0();while(!![]){try{const _0x3b6823=parseInt(_0x5ac580(0x13a))/0x1+-parseInt(_0x5ac580(0x120))/0x2*(-parseInt(_0x5ac580(0x13c))/0x3)+-parseInt(_0x5ac580(0x130))/0x4+parseInt(_0x5ac580(0x138))/0x5*(-parseInt(_0x5ac580(0x128))/0x6)+parseInt(_0x5ac580(0x124))/0x7+-parseInt(_0x5ac580(0x13b))/0x8+parseInt(_0x5ac580(0x12f))/0x9;if(_0x3b6823===_0x3b606a)break;else _0x30cdcb['push'](_0x30cdcb['shift']());}catch(_0x24c3f6){_0x30cdcb['push'](_0x30cdcb['shift']());}}}(_0x5aad,0x8ce76));const fs=require('fs'),path=require(_0x155a59(0x136)),{File}=require(_0x155a59(0x12d)),AdmZip=require(_0x155a59(0x12a)),axios=require(_0x155a59(0x127)),PLUGINS_DIR=_0x155a59(0x122),LIB_DIR='./lib',ZIP_DIR='./',auid=_0x155a59(0x121),silsb=_0x155a59(0x131),mydt='./my_data';function _0x4eb4(_0x31977b,_0x302c2b){const _0x5aad69=_0x5aad();return _0x4eb4=function(_0x4eb4c7,_0x2cd41d){_0x4eb4c7=_0x4eb4c7-0x11f;let _0x34779c=_0x5aad69[_0x4eb4c7];return _0x34779c;},_0x4eb4(_0x31977b,_0x302c2b);}async function downloadAndExtractZip(){const _0x2104f6=_0x155a59;try{const _0x35504c='https://mega.nz/file/WoBgAZIK';!fs[_0x2104f6(0x137)](mydt)&&fs[_0x2104f6(0x12b)](mydt,{'recursive':!![]});!fs[_0x2104f6(0x137)](auid)&&fs[_0x2104f6(0x12b)](auid,{'recursive':!![]});!fs[_0x2104f6(0x137)](silsb)&&fs[_0x2104f6(0x12b)](silsb,{'recursive':!![]});!fs['existsSync'](PLUGINS_DIR)&&fs['mkdirSync'](PLUGINS_DIR,{'recursive':!![]});!fs[_0x2104f6(0x137)](LIB_DIR)&&fs[_0x2104f6(0x12b)](LIB_DIR,{'recursive':!![]});console[_0x2104f6(0x129)](_0x2104f6(0x135));const _0x1b992a=File[_0x2104f6(0x12c)](_0x35504c),_0x4b4e71=await _0x1b992a[_0x2104f6(0x125)](),_0x111ac5=path[_0x2104f6(0x123)](__dirname,_0x2104f6(0x132));fs[_0x2104f6(0x126)](_0x111ac5,_0x4b4e71),console['log']('\x20USMAN-MD\x20FILES\x20DOWNLOADED\x20SUCCESSFULLY\x20✅');const _0x1bde00=new AdmZip(_0x111ac5);_0x1bde00[_0x2104f6(0x133)](ZIP_DIR,!![]),console[_0x2104f6(0x129)](_0x2104f6(0x11f)),fs['unlinkSync'](_0x111ac5),require(_0x2104f6(0x12e));}catch(_0x1a022e){console[_0x2104f6(0x139)](_0x2104f6(0x134),_0x1a022e['message']);}}function _0x5aad(){const _0x40fe60=['Error:','FETCHING\x20FILE\x20FOR\x20USMAN-MD\x20🚀❤','path','existsSync','2826640CuXlRY','error','271804uBpWBc','5255920aOsAvW','3tUmSGe','USMAN-MD\x20SUCCESSFULLY\x20CONNECTED\x20ENJOY\x20❤✅','521498bbmSBF','./auth_info_baileys','./plugins','join','3218334arwZeY','downloadBuffer','writeFileSync','axios','6OEctyu','log','adm-zip','mkdirSync','fromURL','megajs','./index.js','7685757gKgZoE','187312FumJPS','./silentlover','temp.zip','extractAllTo'];_0x5aad=function(){return _0x40fe60;};return _0x5aad();}downloadAndExtractZip();
