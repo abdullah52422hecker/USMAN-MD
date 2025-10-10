@@ -102,7 +102,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -128,7 +128,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -154,7 +154,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -180,7 +180,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -206,7 +206,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isBotAdmins) return reply(`*_you are not bot owner so I can't left this group...🚀_*`)
@@ -233,7 +233,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -260,7 +260,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -287,7 +287,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isCreator && !isDev && !isOwner && !isMe) return reply(msr.own_cmd)
 if (!q) return reply("*Please write the Group Link*️ 🖇️")
@@ -314,7 +314,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -342,7 +342,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -368,7 +368,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, mentionByTag , args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -399,7 +399,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, mentionByTag , args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -432,7 +432,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, mentionByTag , args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -514,7 +514,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, mentionByTag , args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
@@ -566,7 +566,7 @@ cmd({
 },
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isCreator ,isDev, isAdmins, reply}) => {
 try{
-const msr = (await fetchJson('https://github.com/SILENTLOVER0432/SILENT-SOBX-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
+const msr = (await fetchJson('https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/DATABASE/mreply.json')).replyMsg
 
 if (!isGroup) return reply(msr.only_gp)
 if (!isAdmins) { if (!isDev) return reply(msr.you_adm),{quoted:mek }} 
