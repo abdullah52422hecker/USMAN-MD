@@ -30,13 +30,13 @@
 
 ---------
 
-### <br>1. ✿ ꜰᴏʀᴋ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ✿
+### <br>01. ✿ ꜰᴏʀᴋ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ✿
 ---
 **`✿ FORK 🍴 AND STAR ⭐ USMAN-MD ✿`**
 
   <a href="https://github.com/usmanser71/USMAN-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-USMAN%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
 
-### <br>2.  ✿ ɢᴇᴛ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿
+### <br>02.  ✿ ɢᴇᴛ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿
 
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92309xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
@@ -51,7 +51,7 @@
 
 ----------
 
-### <br>3. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
+> **2. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
 
 ----------
 
@@ -62,7 +62,7 @@
 
 ----------
 
-> **2.  ❖ ᴜꜱᴍᴀɴ-ᴍᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ꜱᴏᴜʀᴇꜱ'ꜱ ❖
+### <br>03.  ❖ ᴜꜱᴍᴀɴ-ᴍᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ꜱᴏᴜʀᴇꜱ'ꜱ ❖
 
 ---
 
