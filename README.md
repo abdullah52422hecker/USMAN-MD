@@ -21,9 +21,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USMAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+-------
+
 ### <br>01. ✿ ꜰᴏʀᴋ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ✿
+
 ---
+
 **`✿ FORK 🍴 AND STAR ⭐ USMAN-MD ✿`**
 
   <a href="https://github.com/usmanser71/USMAN-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-USMAN%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
@@ -33,12 +37,15 @@
 `✠ ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ_ɪᴅ ꜱᴏ ᴜ ᴄᴀɴ ɢᴇᴛ ɪᴛ ᴄʟɪᴄᴋ ᴏɴ ꜱᴇꜱꜱɪᴏɴ_ɪᴅ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ᴘᴀꜱᴛᴇ ʏᴏᴜʀ ɴᴜᴍʙᴇʀ ᴡɪᴛʜ ᴄᴏᴜɴᴛʀʏ ᴄᴏᴅᴇ ᴇxᴀᴍᴘʟᴇ:92309xxxxxx ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ_ɪᴅ ✠`
 
 > **1. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+-------
+
 <p align="center">
 <a href='https://usman-md-pair-1.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+  -------
 
   > **2. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -46,8 +53,9 @@
 <a href='https://usman-md-pair1.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+  -------
+  
   ### <br>03.  ❖ ᴜꜱᴍᴀɴ-ᴍᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ꜱᴏᴜʀᴇꜱ'ꜱ ❖
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  <table>
