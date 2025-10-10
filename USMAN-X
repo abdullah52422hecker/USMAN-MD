@@ -13,9 +13,3 @@
 #    * @whatsapp : 923097373710
 #    * @description : USMAN-MD ,A Multi-functional Whatsapp Bot Md.
 #    * @version 1.0.0
-
-
- 
-
-FROM quay.io/usmanser71/USMAN-MD
-RUN git clone https://github.com/usmanser71/USMAN-MD
