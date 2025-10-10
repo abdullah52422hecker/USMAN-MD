@@ -949,7 +949,7 @@ conn.downloadAndSaveMediaMessage = async (message, filename, appendExtension = t
   app.get("/", (req, res) => {
   res.send("USMAN-MD STARTED ✅");
   });
-  app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
+  app.listen(process.env.PORT || 3000, () => console.log('Server running'));
   setTimeout(() => {
   connectToWA()
   }, 4000);
