@@ -7,10 +7,6 @@
     "stop": "pm2 stop USMAN-MD",
     "restart": "pm2 restart USMAN-MD"
   },
-  "engines": {
-    "node": ">=22.16.0",
-    "npm": ">=11.4.1"
-  },
   "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@black-king/temp-mail-gen": "1.0.1",
