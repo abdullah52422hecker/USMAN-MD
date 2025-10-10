@@ -39,7 +39,8 @@
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-> **2. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
+
+  > **2. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
 <a href='https://usman-md-pair1.onrender.com/' target="_blank">
