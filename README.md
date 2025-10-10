@@ -159,9 +159,6 @@ jobs:
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-***
-
-
 ## <h2 align="left">⚠️ ʀᴇᴍɪɴᴅᴇʀ </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
