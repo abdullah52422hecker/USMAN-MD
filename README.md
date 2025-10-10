@@ -38,7 +38,7 @@
 
 ### <br>02.  ✿ ɢᴇᴛ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92309xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`✠ ɪꜰ ʏᴏᴜ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ_ɪᴅ ꜱᴏ ᴜ ᴄᴀɴ ɢᴇᴛ ɪᴛ ᴄʟɪᴄᴋ ᴏɴ ꜱᴇꜱꜱɪᴏɴ_ɪᴅ ʙᴜᴛᴛᴏɴ ᴀɴᴅ ᴘᴀꜱᴛᴇ ʏᴏᴜʀ ɴᴜᴍʙᴇʀ ᴡɪᴛʜ ᴄᴏᴜɴᴛʀʏ ᴄᴏᴅᴇ ᴇxᴀᴍᴘʟᴇ:92309xxxxxx ᴛʜᴇɴ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ_ɪᴅ ✠`
 
 > **1. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
 
