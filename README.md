@@ -5,8 +5,8 @@
 </p>
 
 <div align="center"> 
-  <a href="https://youtube.com/@Masky_Official_Tech"> 
-    <img src="https://github.com/MaskyOfficialTech/MASKY-XD_V2/blob/main/assets/bot_image.jpg" alt="MASKY XD" height="300"> 
+  <a href="https://github.com/usmanser71"> 
+    <img src="https://i.postimg.cc/HWy6vmr8/c133fa9c89558b0f5c2502bae27a49a4-1.jpg" alt="https://github.com/usmanser71/USMAN-MD" height="300"> 
   </a> 
 </div>
 
