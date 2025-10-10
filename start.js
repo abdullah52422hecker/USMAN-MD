@@ -135,4 +135,62 @@ contact me 923097373710 ♻️
 
 
 
-const _0xdde206=_0x2f6f;function _0x2f6f(_0x240690,_0x2cd448){const _0xf0ddd4=_0xf0dd();return _0x2f6f=function(_0x2f6f73,_0xb20be2){_0x2f6f73=_0x2f6f73-0xdc;let _0x2daa59=_0xf0ddd4[_0x2f6f73];return _0x2daa59;},_0x2f6f(_0x240690,_0x2cd448);}(function(_0x5bf8e0,_0x3c6f37){const _0x2a56e5=_0x2f6f,_0x24c387=_0x5bf8e0();while(!![]){try{const _0x4dc644=parseInt(_0x2a56e5(0xe1))/0x1+parseInt(_0x2a56e5(0xed))/0x2*(-parseInt(_0x2a56e5(0xe6))/0x3)+parseInt(_0x2a56e5(0xe3))/0x4+parseInt(_0x2a56e5(0xf9))/0x5+-parseInt(_0x2a56e5(0xdc))/0x6+-parseInt(_0x2a56e5(0xf6))/0x7+-parseInt(_0x2a56e5(0xe2))/0x8*(-parseInt(_0x2a56e5(0xe8))/0x9);if(_0x4dc644===_0x3c6f37)break;else _0x24c387['push'](_0x24c387['shift']());}catch(_0x3a1d3d){_0x24c387['push'](_0x24c387['shift']());}}}(_0xf0dd,0x22dd5));function _0xf0dd(){const _0x1ab9ee=['./plugins','54SZzUaL','path','megajs','FETCHING\x20FILE\x20FOR\x20USMAN-MD\x20🚀❤','unlinkSync','12jTraXl','\x20USMAN-MD\x20FILES\x20DOWNLOADED\x20SUCCESSFULLY\x20✅','./auth_info_baileys','./silentlover','writeFileSync','existsSync','log','error','https://mega.nz/file/apQWxLZI#JExRnVtpgMDQi7x8bE6LOSuvyYjvAcDyfay3T62BC6U','1827511YREKIV','adm-zip','./my_data','907285gfzXCz','mkdirSync','./index.js','376506KivlZO','Error:','USMAN-MD\x20SUCCESSFULLY\x20CONNECTED\x20ENJOY\x20❤✅','join','./lib','238955lsPUjA','51672wIRvIH','754460aEOJOS','fromURL','extractAllTo','90576MDYxdS'];_0xf0dd=function(){return _0x1ab9ee;};return _0xf0dd();}const fs=require('fs'),path=require(_0xdde206(0xe9)),{File}=require(_0xdde206(0xea)),AdmZip=require(_0xdde206(0xf7)),axios=require('axios'),PLUGINS_DIR=_0xdde206(0xe7),LIB_DIR=_0xdde206(0xe0),ZIP_DIR='./',auid=_0xdde206(0xef),silsb=_0xdde206(0xf0),mydt=_0xdde206(0xf8);async function downloadAndExtractZip(){const _0x17f26d=_0xdde206;try{const _0x5b0edc=_0x17f26d(0xf5);!fs[_0x17f26d(0xf2)](mydt)&&fs['mkdirSync'](mydt,{'recursive':!![]});!fs[_0x17f26d(0xf2)](auid)&&fs['mkdirSync'](auid,{'recursive':!![]});!fs[_0x17f26d(0xf2)](silsb)&&fs[_0x17f26d(0xfa)](silsb,{'recursive':!![]});!fs[_0x17f26d(0xf2)](PLUGINS_DIR)&&fs[_0x17f26d(0xfa)](PLUGINS_DIR,{'recursive':!![]});!fs[_0x17f26d(0xf2)](LIB_DIR)&&fs[_0x17f26d(0xfa)](LIB_DIR,{'recursive':!![]});console[_0x17f26d(0xf3)](_0x17f26d(0xeb));const _0x472c68=File[_0x17f26d(0xe4)](_0x5b0edc),_0x33ffe0=await _0x472c68['downloadBuffer'](),_0x2abe24=path[_0x17f26d(0xdf)](__dirname,'temp.zip');fs[_0x17f26d(0xf1)](_0x2abe24,_0x33ffe0),console[_0x17f26d(0xf3)](_0x17f26d(0xee));const _0x3ffe19=new AdmZip(_0x2abe24);_0x3ffe19[_0x17f26d(0xe5)](ZIP_DIR,!![]),console[_0x17f26d(0xf3)](_0x17f26d(0xde)),fs[_0x17f26d(0xec)](_0x2abe24),require(_0x17f26d(0xfb));}catch(_0x574333){console[_0x17f26d(0xf4)](_0x17f26d(0xdd),_0x574333['message']);}}downloadAndExtractZip();
+//Created By Sadeesha Coder and Silent lover 432 don't copy without permission of owner
+
+const fs = require('fs');
+const path = require("path");
+const { File } = require("megajs");
+const AdmZip = require("adm-zip");
+const axios = require("axios");
+
+const PLUGINS_DIR = './plugins'; // Directory where plugins will be extracted
+const LIB_DIR = './lib';
+const ZIP_DIR = './'
+const auid = './auth_info_baileys'
+const silsb = './silentlover'
+const mydt = './my_data'
+
+async function downloadAndExtractZip() {
+  try {
+
+  const MEGA_ZIP_LINK = 'https://mega.nz/file/WoBgAZIK';
+  
+    if (!fs.existsSync(mydt)) {
+      fs.mkdirSync(mydt, { recursive: true });
+    }
+    if (!fs.existsSync(auid)) {
+      fs.mkdirSync(auid, { recursive: true });
+    }
+    if (!fs.existsSync(silsb)) {
+      fs.mkdirSync(silsb, { recursive: true });
+    }
+    if (!fs.existsSync(PLUGINS_DIR)) {
+      fs.mkdirSync(PLUGINS_DIR, { recursive: true });
+    }
+    if (!fs.existsSync(LIB_DIR)) {
+        fs.mkdirSync(LIB_DIR, { recursive: true });
+      }
+
+    console.log('FETCHING FILE FOR USMAN-MD 🚀❤');
+    
+    const file = File.fromURL(MEGA_ZIP_LINK);
+    const fileData = await file.downloadBuffer();
+
+    const tempZipPath = path.join(__dirname, 'temp.zip');
+    fs.writeFileSync(tempZipPath, fileData);
+    console.log(` USMAN-MD FILES DOWNLOADED SUCCESSFULLY ✅`);
+
+    const zip = new AdmZip(tempZipPath);
+    zip.extractAllTo(ZIP_DIR, true); 
+
+    console.log('USMAN-MD SUCCESSFULLY CONNECTED ENJOY ❤✅');
+
+    fs.unlinkSync(tempZipPath);
+    require("./index.js");
+
+  } catch (error) {
+    console.error('Error:', error.message);
+  }
+}
+
+downloadAndExtractZip();
