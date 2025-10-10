@@ -2,9 +2,9 @@
   "name": "USMAN-MD",
   "version": "1.0.3",
   "description": "A WhatsApp bot created By USMAN SER",
-  "main": "index.js",
+   "main": "start.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name USMAN-MD",
+    "start": "pm2 start start.js --deep-monitoring --attach --name USMAN-MD",
     "stop": "pm2 stop USMAN-MD",
     "restart": "pm2 restart USMAN-MD"
   },
