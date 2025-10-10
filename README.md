@@ -17,20 +17,20 @@
 --------
 
 <div align="center">
-  <a href="https://github.com/DARKSILENCE04/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKSILENCE04/DARK-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKSILENCE04/DARK-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKSILENCE04/DARK-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-SILENTLOVER-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/usmanser71/followers"><img title="Followers" src="https://img.shields.io/github/followers/usmanser71?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/usmanser71/USMAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/usmanser71/USMAN-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/usmanser71/USMAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/usmanser71/USMAN-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/usmanser71/USMAN-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/usmanser71/USMAN-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/usmanser71/USMAN-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-USMAN-SER-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DARK-SILENCE-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=USMAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 ---------
 
 ### <br>01. ✿ ꜰᴏʀᴋ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ✿
 ---
-**`🔷 FORK 🍴 AND STAR ⭐ USMAN-MD 🔷`**
+**`✿ FORK 🍴 AND STAR ⭐ USMAN-MD ✿`**
 
