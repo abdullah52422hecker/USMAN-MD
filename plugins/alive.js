@@ -54,7 +54,7 @@ cmd({
 
     // Send the audio file with context info
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/JawadYTX/KHAN-DATA/raw/refs/heads/main/autovoice/repo.m4a' },
+            audio: { url: 'https://github.com/USMAN-MD-DATABASE/raw/refs/heads/main/AUTO_VOICE/AUD-20240110-WA0069.mp3' },
             mimetype: 'audio/mp4',
             ptt: true,
             contextInfo: { 
@@ -63,7 +63,7 @@ cmd({
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420473990639@newsletter',
-                    newsletterName: 'USMAN-MD',
+                    newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
                     serverMessageId: 143
                 }
             }
