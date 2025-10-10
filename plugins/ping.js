@@ -25,7 +25,7 @@ return await conn.sendMessage(from , { text: '*_🔥USMAN-MD SPEED:_*\n *' + (fi
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420473990639@newsletter',
-                    newsletterName: "🇺🇸🇲🇦🇳-🇲🇩",
+                    newsletterName: "𝐔𝐒𝐌𝐀𝐍-𝐌𝐃",
                     serverMessageId: 143
                 }
             }
@@ -78,7 +78,7 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420473990639@newsletter',
-                    newsletterName: "🇺🇸🇲🇦🇳-🇲🇩",
+                    newsletterName: "𝐔𝐒𝐌𝐀𝐍-𝐌𝐃",
                     serverMessageId: 143
                 }
             }
