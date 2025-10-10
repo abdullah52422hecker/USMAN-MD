@@ -34,7 +34,7 @@
 ---
 **`✿ FORK 🍴 AND STAR ⭐ USMAN-MD ✿`**
 
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/usmanser71/USMAN-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-USMAN%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
 
 ### <br>02.  ✿ ɢᴇᴛ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿
 
