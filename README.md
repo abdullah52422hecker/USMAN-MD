@@ -47,7 +47,8 @@
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-### <br>03.  ❖ ᴜꜱᴍᴀɴ-ᴍᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ꜱᴏᴜʀᴇꜱ'ꜱ ❖
+
+  ### <br>03.  ❖ ᴜꜱᴍᴀɴ-ᴍᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ꜱᴏᴜʀᴇꜱ'ꜱ ❖
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
  <table>
     <tr>
@@ -114,6 +115,7 @@ jobs:
       run: npm start
 ```
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ## 👑 ✿ ᴘʀᴏᴊᴇᴄᴛ ᴏᴡɴᴇʀ ✿
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 `ʜɪɪ ᴅᴇᴀʀꜱ ꜰʀɪᴇɴᴅꜱ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ʜᴇʟᴘ ꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ↘︎ ᴡɪᴛʜ ᴍᴇ ᴡɪᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ɪᴛꜱ ᴍᴇ ♡ᴜꜱᴍᴀɴ-ꜱᴇʀ♡`
@@ -121,12 +123,14 @@ jobs:
 <p align="">
 <a href='https://wa.me/+923097373710?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+USMAN+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ## ⚖️ ♡ ᴜꜱᴍᴀɴ-ᴍᴅ ꜱᴜᴘᴘᴏʀᴛ ♡
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 `✠ ꜱᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ʟᴀᴛᴇꜱᴛ ᴜᴘᴅᴀᴛᴇꜱ ᴀɴᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴏꜰ ᴜꜱᴍᴀɴ-ᴍᴅ ʙʏ ᴊᴏɪɴɪɴɢ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ.✠`
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 [![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6IIZI5vKA4u6OoF60z)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 ## <h2 align="left">⚠️ ʀᴇᴍɪɴᴅᴇʀ </h2>
 <p style="text-align: center; font-size: 1.2em;">
   
