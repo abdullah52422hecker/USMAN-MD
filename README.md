@@ -16,58 +16,8 @@
 
 ---
 
-## 🚀 Steps to Deploy
+### <br>01. ✿ ꜰᴏʀᴋ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ✿
 
-### Step 1: Fork the Repository
-
-Click the button below to fork the Knight Bot repository to your GitHub account:
-
-<div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
-</div>
-
----
-
-### Step 2: Get Pair Code
-
-Deploy the bot and easily connect it to your WhatsApp account by pair code. Click the button below to deploy the bot on Replit.
-
-<div align="center">
-  <a href="https://maskymd-u1i1.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GET%20PAIR%20CODE-Easy%20Method-ff4d4d?style=for-the-badge" alt="Generate Pair Code"/>
-  </a>
-</div>
-
-
-### After getting creds.json file, upload it to session folder
-
----
-
-### Step 3: Deploy Now
-
-For further customization and setup guidance, click the button below:
-
-<div align="center">
-  <a href="https://youtu.be/CA7CfI-8Gpk?si=ppqwJEkpLaqTYVQ0">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="How to deploy"/>
-  </a>
-  <a href="https://bot-hosting.net/">
-    <img src="https://img.shields.io/badge/Deploy on Panel-28a745?style=for-the-badge" alt="Deploy on Panel"/>
-  </a>
-</div>
-
-
-### Deploy Now on Below Render
-<div align="center">
-  <a href="https://youtu.be/CA7CfI-8Gpk?si=ppqwJEkpLaqTYVQ0">
-    <img src="https://img.shields.io/badge/Deploy Tutorial-dc3545?style=for-the-badge&logo=youtube" alt="How to deploy"/>
-  </a>
-<a href="https://dashboard.render.com/web/new" target="_blank">
-  <img src="https://img.shields.io/badge/Render-D6B7D6?style=for-the-badge&logo=server&logoColor=black" alt="Render"/>
-</a>
-</div>
 
 ### Join Us
 
