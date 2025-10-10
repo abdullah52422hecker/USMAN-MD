@@ -148,11 +148,16 @@ jobs:
 -------
 
 ## ⚖️ ♡ ᴜꜱᴍᴀɴ-ᴍᴅ ꜱᴜᴘᴘᴏʀᴛ ♡
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 `✠ ꜱᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ʟᴀᴛᴇꜱᴛ ᴜᴘᴅᴀᴛᴇꜱ ᴀɴᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴏꜰ ᴜꜱᴍᴀɴ-ᴍᴅ ʙʏ ᴊᴏɪɴɪɴɢ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ.✠`
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 [![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6IIZI5vKA4u6OoF60z)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+-------
 
 ## <h2 align="left">⚠️ ʀᴇᴍɪɴᴅᴇʀ </h2>
 <p style="text-align: center; font-size: 1.2em;">
