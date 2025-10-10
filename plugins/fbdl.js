@@ -51,7 +51,7 @@ cmd({
 
     await conn.sendMessage(from, {
       video: { url: videoData.url },
-      caption: `📥 *USMAN-MD FB DOWNLOADER..🚀*\n\n*QUAILTY•${videoData.quality}*\n\n🔗 *POWERED BY USMAN-SER*`
+      caption: `📥 *USMAN-MD FB DOWNLOADER..🚀*\n\n*QUAILTY•${videoData.quality}*\n\n🔗 *𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃*`
     }, { quoted: m });
 
   } catch (error) {
@@ -96,7 +96,7 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
                             `📸 *Instagram Post* 📸\n\n` +
                             `👤 *User:* ${fullname} (@${username})\n` +
                             `❤️ *Likes:* ${likes}\n💬 *Comments:* ${comments}\n👥 *Followers:* ${followed}\n` +
-                            `📝 *Caption:*\n${caption || "THE USMAN-MD API."}`;
+                            `📝 *Caption:*\n${caption || "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃"}`;
 
         for (const media of download) {
             if (media.type === "image") {
@@ -149,7 +149,7 @@ async (conn, mek, m, { from, args, q, reply }) => {
         const caption = `🎵 *USMAN-MD TIKTOK VIDEO* 🎵\n\n` +
                         `👤 *USER:* ${author.nickname} (@${author.username})\n` +
                         `📖 *TITLE:* ${title}\n` +
-                        `👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n> © POWERED BY USMAN-MD ♥️`;
+                        `👍 *LIKES:* ${like}\n💬 *COMMENTS:* ${comment}\n🔁 *SHARES:* ${share}\n\n> © 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 ♥️`;
         
         await conn.sendMessage(from, {
             video: { url: videoUrl },
