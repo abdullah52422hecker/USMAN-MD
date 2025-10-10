@@ -12,7 +12,7 @@ cmd({
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 let about = `
-*╭━━〔 USMAN-MD 〕━━┈⊷*
+*╭━━〔 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 〕━━┈⊷*
 
 *👋 HELLO ${pushname}*
 
@@ -31,7 +31,7 @@ let about = `
 > *◆◆◆◆◆◆◆◆◆◆◆◆*
 
 *•────────────•⟢*
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴜꜱᴍᴀɴ-ꜱᴇʀ
+> © 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃
 *•────────────•⟢*
 `
 
@@ -42,7 +42,7 @@ await conn.sendMessage(from,{image:{url:`https://i.postimg.cc/vT7xmjVW/Whats-App
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363420473990639@newsletter',
-      newsletterName: 'USMAN-MD',
+      newsletterName: '𝐔𝐒𝐌𝐀𝐍-𝐌𝐃',
       serverMessageId: 999
     }
   }
