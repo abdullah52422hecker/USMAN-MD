@@ -64,7 +64,7 @@ try{
                 • .antidelete on :- Enable AntiDelete for all chats
                 • .antidelete status :- Check current AntiDelete status
                 
-©️ CREATED BY SILENTLOVER 432`;
+©️ CREATED BY USMAN-SER`;
                  
                 return reply(helpMessage);
         }
@@ -94,13 +94,13 @@ try{
       const quot = quotedMessage.viewOnceMessageV2;
 
       if (quot.message.imageMessage) {
-        let cap = quot.message.imageMessage.caption + '\n\nPOWERED BY USMAN-MD';
+        let cap = quot.message.imageMessage.caption + '\n\n𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃';
         let buffer = await conn.downloadMediaMessage(quot.message.imageMessage);
         return conn.sendMessage(from, { image: buffer, caption: cap }, { quoted: mek });
       }
 
       if (quot.message.videoMessage) {
-        let cap = quot.message.videoMessage.caption + '\n\nPOWERED BY USMAN-MD';
+        let cap = quot.message.videoMessage.caption + '\n\n𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃';
         let buffer = await conn.downloadMediaMessage(quot.message.videoMessage);
         return conn.sendMessage(from, { video: buffer, caption: cap }, { quoted: mek });
       }
@@ -155,6 +155,7 @@ try{
     reply("i can't download This media try again");
   }
 });
+
 
 
 
