@@ -95,7 +95,7 @@
 
 -------------
 
-**✿ 𝐍𝐎𝐓𝐄 ✿:-*ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴄᴏᴘʏ ᴛʜɪꜱ ᴡᴏʀᴋꜰʟᴏᴡꜱ ᴄᴏᴅᴇ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜꜱᴇ ꜰʀᴇᴇ ᴜꜱᴍᴀɴ-ᴍᴅ!! ʏᴏᴜ ᴍᴜꜱᴛ ʙᴇ ɴᴇᴇᴅ ᴛᴏ ᴄʀᴇᴀᴛ ꜰᴏʀᴋ ᴏꜰ ᴜꜱᴍᴀɴ-ᴍᴅ [20.0x] ᴄᴏᴅᴇ ɪꜱ ʜᴇʀᴇ.*
+✿ 𝐍𝐎𝐓𝐄 ✿:-*ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴄᴏᴘʏ ᴛʜɪꜱ ᴡᴏʀᴋꜰʟᴏᴡꜱ ᴄᴏᴅᴇ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜꜱᴇ ꜰʀᴇᴇ ᴜꜱᴍᴀɴ-ᴍᴅ!! ʏᴏᴜ ᴍᴜꜱᴛ ʙᴇ ɴᴇᴇᴅ ᴛᴏ ᴄʀᴇᴀᴛ ꜰᴏʀᴋ ᴏꜰ ᴜꜱᴍᴀɴ-ᴍᴅ [20.0x] ᴄᴏᴅᴇ ɪꜱ ʜᴇʀᴇ.*
 
 ```
 name: Node.js CI
@@ -165,15 +165,15 @@ jobs:
 ## <h2 align="left">⚠️ ʀᴇᴍɪɴᴅᴇʀ </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
-- ** 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 ⚠️:** USMAN-MD IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK 💨.
-- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED.🚮 NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.⚙️
-- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT.📥 PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING USMAN-MD ❤️♻️🔷.
+- ** 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 ⚠️:**ᴜꜱᴍᴀɴ-ᴍᴅ ɪꜱ ɴᴏᴛ ᴀꜰꜰɪʟɪᴀᴛᴇᴅ ᴡɪᴛʜ `ᴡʜᴀᴛꜱᴀᴘᴘ ɪɴᴄ.`. ᴜꜱᴇ ɪᴛ ᴀᴛ ʏᴏᴜʀ ᴏᴡɴ ʀɪꜱᴋ 💨.
+- ᴍɪꜱᴜꜱɪɴɢ ᴛʜᴇ ʙᴏᴛ ᴍᴀʏ ʀᴇꜱᴜʟᴛ ɪɴ ʏᴏᴜʀ `ᴡʜᴀᴛꜱᴀᴘᴘ` ᴀᴄᴄᴏᴜɴᴛ ʙᴇɪɴɢ ʙᴀɴɴᴇᴅ.🚮 ɴᴏᴛᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ᴜɴʙᴀɴ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴏɴᴄᴇ.⚙️
+- ɪ ᴀᴍ ɴᴏᴛ ʀᴇꜱᴘᴏɴꜱɪʙʟᴇ ꜰᴏʀ ᴀɴʏ ʙᴀɴꜱ ᴏʀ ᴍɪꜱᴜꜱᴇ ᴏꜰ ᴛʜᴇ ʙᴏᴛ.📥 ᴘʟᴇᴀꜱᴇ ᴋᴇᴇᴘ ᴛʜɪꜱ ᴡᴀʀɴɪɴɢ ɪɴ ᴍɪɴᴅ ʙᴇꜰᴏʀᴇ ᴘʀᴏᴄᴇᴇᴅɪɴɢ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜꜱɪɴɢ ᴜꜱᴍᴀɴ-ᴍᴅ ❤️♻️🔷.
 
 -----------
 
 <h2 align="left">ℹ️ ɴᴏᴛɪᴄᴇ...</h2>
 <p style="text-align: center; font-size: 1.2em;">
-𝐍𝐎𝐓 𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 🍽️- IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM.🚮 PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD! ♻️</p>
+𝐍𝐎𝐓 𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 🍽️- ɪꜰ ᴀɴʏ ᴘʟᴜɢɪɴ'ꜱ ᴄᴏᴅᴇ ɪꜱ ᴏʙꜰᴜꜱᴄᴀᴛᴇᴅ, ʏᴏᴜ ᴅᴏ ɴᴏᴛ ʜᴀᴠᴇ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ᴛᴏ ᴇᴅɪᴛ ɪᴛ ɪɴ ᴀɴʏ ꜰᴏʀᴍ.🚮 ᴘʟᴇᴀꜱᴇ ʀᴇᴍᴇᴍʙᴇʀ ᴛᴏ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ɪꜰ ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏʀ ʀᴇ-ᴜᴘʟᴏᴀᴅɪɴɢ ᴍʏ ᴘʟᴜɢɪɴꜱ/ꜰɪʟᴇꜱ. ᴡɪꜱʜɪɴɢ ʏᴏᴜ ᴀ ᴡᴏɴᴅᴇʀꜰᴜʟ ᴅᴀʏ ᴀʜᴇᴀᴅ! ♻️</p>
   
 --------
 
