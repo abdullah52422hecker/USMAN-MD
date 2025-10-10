@@ -14,7 +14,7 @@ async(conn, mek, m,{ from, prefix, quoted, q, reply }) => {
 try{
 
 if(!q) return await reply("*Example - :* .pair +923351300389")
-const pair = await fetchJson(`https://paironrender.com/code?number=${q}`)
+const pair = await fetchJson(`https://usman-md-pair-1.onrender.com/code?number=${q}`)
 const done = `_*USMAN-MD NUMBER PAIRED SUCCESSFULLY...✅*_`
 
 const pir = pair.code
