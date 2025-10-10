@@ -4,8 +4,8 @@ const {
 const fetch = require("node-fetch");
 const yts = require("yt-search");
 cmd({
-  'pattern': "moye",
-  'alias': ['song8', "moye8"],
+  'pattern': "play",
+  'alias': ['song8', "play"],
   'desc': "Download YouTube Audio",
   'category': 'downloader',
   'react': '💓,✅',
