@@ -176,3 +176,23 @@ jobs:
 𝐍𝐎𝐓 𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 🍽️- IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM.🚮 PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD! ♻️</p>
   
 --------
+
+ <br>
+<h2 align="center"> ⚠️ ᴅɪᴄᴄʟᴀɪᴍᴇʀ ⚠️
+ </h2>
+ 
+ ---
+
+<h3 align="center">✿ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴜꜱᴍᴀɴ-ᴍᴅ ꜱᴄʀɪᴘᴛ ᴡɪᴛʜᴏᴜᴛ ᴘᴇʀᴍɪꜱɪᴏɴ ᴏꜰ ᴄʀᴇᴀᴛᴏʀ © ᴜꜱᴍᴀɴ-ꜱᴇʀ ✿
+</h3>
+
+<br>
+
+```
+ᴛʜᴀɴᴋꜱ ᴛᴏᴏ ✿ ꜱɪʟᴇɴᴛʟᴏᴠᴇʀ04 ᴀɴᴅ ꜱᴘᴇᴀᴄɪᴏʟ ᴛʜᴀɴᴋꜱ ᴛᴏ 😊 ᴄʏʙᴇʀ-x ᴛᴇᴀᴍ ꜰᴏʀ ᴄʀᴇᴀᴛᴇᴅ ᴛʜɪꜱ ᴜɴɪQᴜᴇ ꜱᴄʀɪᴘᴛ❤️
+```
+-----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+------------------
+
