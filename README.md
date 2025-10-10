@@ -141,7 +141,9 @@ jobs:
 ---
 
 `ʜɪɪ ᴅᴇᴀʀꜱ ꜰʀɪᴇɴᴅꜱ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ʜᴇʟᴘ ꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ↘︎ ᴡɪᴛʜ ᴍᴇ ᴡɪᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ɪᴛꜱ ᴍᴇ ♡ᴜꜱᴍᴀɴ-ꜱᴇʀ♡`
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 <p align="">
 <a href='https://wa.me/+923097373710?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+USMAN+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 
