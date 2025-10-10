@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="https://github.com/usmanser71/USMAN-MD"/>
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <div align="center"> 
   <a href="https://github.com/usmanser71"> 
@@ -14,7 +14,7 @@
   </a> 
 </div>
 
---------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <div align="center">
   <a href="https://github.com/usmanser71/followers"><img title="Followers" src="https://img.shields.io/github/followers/usmanser71?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
@@ -28,7 +28,7 @@
   <img src="https://komarev.com/ghpvc/?username=USMAN-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
----------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### <br>01. ✿ ꜰᴏʀᴋ ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ✿
 ---
@@ -42,29 +42,29 @@
 
 > **1. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
 
-----------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
 <a href='https://usman-md-pair-1.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
-----------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 > **2. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
 
-----------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
 <a href='https://usman-md-pair1.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
-----------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ### <br>03.  ❖ ᴜꜱᴍᴀɴ-ᴍᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ꜱᴏᴜʀᴇꜱ'ꜱ ❖
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  <table>
     <tr>
@@ -93,7 +93,7 @@
   <img src="https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
 
--------------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ✿ 𝐍𝐎𝐓𝐄 ✿:-* ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴄᴏᴘʏ ᴛʜɪꜱ ᴡᴏʀᴋꜰʟᴏᴡꜱ ᴄᴏᴅᴇ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜꜱᴇ ꜰʀᴇᴇ ᴜꜱᴍᴀɴ-ᴍᴅ!! ʏᴏᴜ ᴍᴜꜱᴛ ʙᴇ ɴᴇᴇᴅ ᴛᴏ ᴄʀᴇᴀᴛ ꜰᴏʀᴋ ᴏꜰ ᴜꜱᴍᴀɴ-ᴍᴅ [20.0x] ᴄᴏᴅᴇ ɪꜱ ʜᴇʀᴇ *
 
@@ -133,15 +133,15 @@ jobs:
       run: npm start
 ```
 
--------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 👑 ✿ ᴘʀᴏᴊᴇᴄᴛ ᴏᴡɴᴇʀ ✿
 
-----------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 `ʜɪɪ ᴅᴇᴀʀꜱ ꜰʀɪᴇɴᴅꜱ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ʜᴇʟᴘ ꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ↘︎ ᴡɪᴛʜ ᴍᴇ ᴡɪᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ɪᴛꜱ ᴍᴇ ♡ᴜꜱᴍᴀɴ-ꜱᴇʀ♡`
 
----------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="">
 <a href='https://wa.me/+923097373710?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+USMAN+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
@@ -150,14 +150,14 @@ jobs:
 
 ## ⚖️ ♡ ᴜꜱᴍᴀɴ-ᴍᴅ ꜱᴜᴘᴘᴏʀᴛ ♡
 
---------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 `✠ ꜱᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ʟᴀᴛᴇꜱᴛ ᴜᴘᴅᴀᴛᴇꜱ ᴀɴᴅ ᴄᴏᴍᴍᴜɴɪᴛʏ ᴏꜰ ᴜꜱᴍᴀɴ-ᴍᴅ ʙʏ ᴊᴏɪɴɪɴɢ ᴏᴜʀ ᴏꜰꜰɪᴄɪᴀʟ ᴡʜᴀᴛꜱᴀᴘᴘ ᴄʜᴀɴɴᴇʟ.✠`
 
------------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 [![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6IIZI5vKA4u6OoF60z)
 
----------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ***
 
@@ -169,30 +169,31 @@ jobs:
 - ᴍɪꜱᴜꜱɪɴɢ ᴛʜᴇ ʙᴏᴛ ᴍᴀʏ ʀᴇꜱᴜʟᴛ ɪɴ ʏᴏᴜʀ `ᴡʜᴀᴛꜱᴀᴘᴘ` ᴀᴄᴄᴏᴜɴᴛ ʙᴇɪɴɢ ʙᴀɴɴᴇᴅ.🚮 ɴᴏᴛᴇ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ ᴏɴʟʏ ᴜɴʙᴀɴ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴏɴᴄᴇ.⚙️
 - ɪ ᴀᴍ ɴᴏᴛ ʀᴇꜱᴘᴏɴꜱɪʙʟᴇ ꜰᴏʀ ᴀɴʏ ʙᴀɴꜱ ᴏʀ ᴍɪꜱᴜꜱᴇ ᴏꜰ ᴛʜᴇ ʙᴏᴛ.📥 ᴘʟᴇᴀꜱᴇ ᴋᴇᴇᴘ ᴛʜɪꜱ ᴡᴀʀɴɪɴɢ ɪɴ ᴍɪɴᴅ ʙᴇꜰᴏʀᴇ ᴘʀᴏᴄᴇᴇᴅɪɴɢ ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜꜱɪɴɢ ᴜꜱᴍᴀɴ-ᴍᴅ ❤️♻️🔷.
 
------------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <h2 align="left">ℹ️ ɴᴏᴛɪᴄᴇ...</h2>
 <p style="text-align: center; font-size: 1.2em;">
 𝐍𝐎𝐓 𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 🍽️- ɪꜰ ᴀɴʏ ᴘʟᴜɢɪɴ'ꜱ ᴄᴏᴅᴇ ɪꜱ ᴏʙꜰᴜꜱᴄᴀᴛᴇᴅ, ʏᴏᴜ ᴅᴏ ɴᴏᴛ ʜᴀᴠᴇ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ᴛᴏ ᴇᴅɪᴛ ɪᴛ ɪɴ ᴀɴʏ ꜰᴏʀᴍ.🚮 ᴘʟᴇᴀꜱᴇ ʀᴇᴍᴇᴍʙᴇʀ ᴛᴏ ɢɪᴠᴇ ᴄʀᴇᴅɪᴛ ɪꜰ ʏᴏᴜ ᴀʀᴇ ᴜꜱɪɴɢ ᴏʀ ʀᴇ-ᴜᴘʟᴏᴀᴅɪɴɢ ᴍʏ ᴘʟᴜɢɪɴꜱ/ꜰɪʟᴇꜱ. ᴡɪꜱʜɪɴɢ ʏᴏᴜ ᴀ ᴡᴏɴᴅᴇʀꜰᴜʟ ᴅᴀʏ ᴀʜᴇᴀᴅ! ♻️</p>
   
---------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
  <br>
 <h2 align="center"> ⚠️ ᴅɪᴄᴄʟᴀɪᴍᴇʀ ⚠️
  </h2>
  
- ---
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <h3 align="center">✿ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴜꜱᴍᴀɴ-ᴍᴅ ꜱᴄʀɪᴘᴛ ᴡɪᴛʜᴏᴜᴛ ᴘᴇʀᴍɪꜱɪᴏɴ ᴏꜰ ᴄʀᴇᴀᴛᴏʀ © ᴜꜱᴍᴀɴ-ꜱᴇʀ ✿
 </h3>
 
 <br>
 
-```
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 ᴛʜᴀɴᴋꜱ ᴛᴏᴏ ✿ ꜱɪʟᴇɴᴛʟᴏᴠᴇʀ04 ᴀɴᴅ ꜱᴘᴇᴀᴄɪᴏʟ ᴛʜᴀɴᴋꜱ ᴛᴏ 😊 ᴄʏʙᴇʀ-x ᴛᴇᴀᴍ ꜰᴏʀ ᴄʀᴇᴀᴛᴇᴅ ᴛʜɪꜱ ᴜɴɪQᴜᴇ ꜱᴄʀɪᴘᴛ❤️
 ```
------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-------------------
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
