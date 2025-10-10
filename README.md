@@ -65,7 +65,9 @@
   -------
   
   ### <br>03.  ❖ ᴜꜱᴍᴀɴ-ᴍᴅ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ꜱᴏᴜʀᴇꜱ'ꜱ ❖
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
  <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/usmanser71/USMAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
@@ -92,7 +94,9 @@
 <div align="center">
   <img src="https://github.com/usmanser71/USMAN-MD-DATABASE/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+-------
+
 ✿ 𝐍𝐎𝐓𝐄 ✿:-* ʏᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴄᴏᴘʏ ᴛʜɪꜱ ᴡᴏʀᴋꜰʟᴏᴡꜱ ᴄᴏᴅᴇ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜꜱᴇ ꜰʀᴇᴇ ᴜꜱᴍᴀɴ-ᴍᴅ!! ʏᴏᴜ ᴍᴜꜱᴛ ʙᴇ ɴᴇᴇᴅ ᴛᴏ ᴄʀᴇᴀᴛ ꜰᴏʀᴋ ᴏꜰ ᴜꜱᴍᴀɴ-ᴍᴅ [20.0x] ᴄᴏᴅᴇ ɪꜱ ʜᴇʀᴇ *
 
 ```
@@ -130,7 +134,7 @@ jobs:
     - name: Start application
       run: npm start
 ```
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+-------
 
 ## 👑 ✿ ᴘʀᴏᴊᴇᴄᴛ ᴏᴡɴᴇʀ ✿
 
