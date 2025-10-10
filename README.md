@@ -155,8 +155,24 @@ jobs:
 
 -----------
 
-[![WhatsApp Channel](https://whatsapp.com/channel/0029Vb6IIZI5vKA4u6OoF60z)
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6IIZI5vKA4u6OoF60z)
 
 ---------
 
 ***
+
+
+## <h2 align="left">⚠️ 𝐑𝐄𝐌𝐈𝐍𝐃𝐄𝐑 </h2>
+<p style="text-align: center; font-size: 1.2em;">
+
+- ** 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 ⚠️:** USMAN-MD IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK 💨.
+- MISUSING THE BOT MAY RESULT IN YOUR `WhatsApp` ACCOUNT BEING BANNED.🚮 NOTE THAT YOU CAN ONLY UNBAN YOUR ACCOUNT ONCE.⚙️
+- I AM NOT RESPONSIBLE FOR ANY BANS OR MISUSE OF THE BOT.📥 PLEASE KEEP THIS WARNING IN MIND BEFORE PROCEEDING THANKS FOR USING USMAN-MD ❤️♻️🔷.
+
+-----------
+
+<h2 align="left">ℹ️ 𝐍𝐎𝐓𝐈𝐂𝐄...</h2>
+<p style="text-align: center; font-size: 1.2em;">
+𝐍𝐎𝐓 𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 🍽️- IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM.🚮 PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD! ♻️</p>
+  
+--------
