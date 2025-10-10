@@ -38,15 +38,15 @@
 
 > **1. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
 
--------
+---
 
 <p align="center">
 <a href='https://usman-md-pair-1.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-FF0000?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
-  -------
-
+  ---
+  
   > **2. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">
@@ -125,12 +125,15 @@ jobs:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 ## 👑 ✿ ᴘʀᴏᴊᴇᴄᴛ ᴏᴡɴᴇʀ ✿
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 `ʜɪɪ ᴅᴇᴀʀꜱ ꜰʀɪᴇɴᴅꜱ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴀɴʏ ʜᴇʟᴘ ꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴄᴏɴᴛᴀᴄᴛ↘︎ ᴡɪᴛʜ ᴍᴇ ᴡɪᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ɪᴛꜱ ᴍᴇ ♡ᴜꜱᴍᴀɴ-ꜱᴇʀ♡`
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="">
 <a href='https://wa.me/+923097373710?text=*HII+SIR+I+NEDD+HELP!.+IM+MSG+YOU+FROM+USMAN+MD!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+-------
 
 ## ⚖️ ♡ ᴜꜱᴍᴀɴ-ᴍᴅ ꜱᴜᴘᴘᴏʀᴛ ♡
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -158,7 +161,9 @@ jobs:
 </h3>
 
 <br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 ᴛʜᴀɴᴋꜱ ᴛᴏᴏ ✿ ꜱɪʟᴇɴᴛʟᴏᴠᴇʀ04 ᴀɴᴅ ꜱᴘᴇᴀᴄɪᴏʟ ᴛʜᴀɴᴋꜱ ᴛᴏ 😊 ᴄʏʙᴇʀ-x ᴛᴇᴀᴍ ꜰᴏʀ ᴄʀᴇᴀᴛᴇᴅ ᴛʜɪꜱ ᴜɴɪQᴜᴇ ꜱᴄʀɪᴘᴛ❤️
 ```
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
