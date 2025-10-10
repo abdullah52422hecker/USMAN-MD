@@ -1,12 +1,8 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴜꜱᴍᴀɴ-ᴍᴅ ᴘʀᴏᴊᴇᴄᴛ, ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ᴛᴏ ᴜꜱᴇ ʙᴀɪʟᴇʏꜱ, ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ɴᴏᴡ ᴀʟʟᴏᴡᴇᴅ ᴛᴏ ᴜꜱᴇ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ʙᴜɢ
 
-.
-
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=USMAN+MD+BOT;Multi+Device+Whatsapp+Bot;Coded+By+USMAN_Official_Tech" alt="Typing SVG" />
-  </a> 
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="https://github.com/usmanser71/USMAN-MD"/>
+</p>
 
 <div align="center"> 
   <a href="https://youtube.com/@Masky_Official_Tech"> 
