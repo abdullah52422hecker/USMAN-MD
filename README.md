@@ -162,7 +162,7 @@ jobs:
 ***
 
 
-## <h2 align="left">⚠️ 𝐑𝐄𝐌𝐈𝐍𝐃𝐄𝐑 </h2>
+## <h2 align="left">⚠️ ʀᴇᴍɪɴᴅᴇʀ </h2>
 <p style="text-align: center; font-size: 1.2em;">
 
 - ** 𝐖𝐀𝐑𝐍𝐈𝐍𝐆 ⚠️:** USMAN-MD IS NOT AFFILIATED WITH `WhatsApp Inc.`. USE IT AT YOUR OWN RISK 💨.
@@ -171,7 +171,7 @@ jobs:
 
 -----------
 
-<h2 align="left">ℹ️ 𝐍𝐎𝐓𝐈𝐂𝐄...</h2>
+<h2 align="left">ℹ️ ɴᴏᴛɪᴄᴇ...</h2>
 <p style="text-align: center; font-size: 1.2em;">
 𝐍𝐎𝐓 𝐅𝐎𝐑 𝐒𝐀𝐋𝐄 🍽️- IF ANY PLUGIN'S CODE IS OBFUSCATED, YOU DO NOT HAVE PERMISSION TO EDIT IT IN ANY FORM.🚮 PLEASE REMEMBER TO GIVE CREDIT IF YOU ARE USING OR RE-UPLOADING MY PLUGINS/FILES. WISHING YOU A WONDERFUL DAY AHEAD! ♻️</p>
   
