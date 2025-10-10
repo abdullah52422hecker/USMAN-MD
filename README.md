@@ -6,7 +6,7 @@
 
 <div align="center"> 
   <a href="https://github.com/usmanser71"> 
-    <img src="https://i.postimg.cc/HWy6vmr8/c133fa9c89558b0f5c2502bae27a49a4-1.jpg" alt="https://github.com/usmanser71/USMAN-MD" height="300"> 
+    <img src="https://i.postimg.cc/HWy6vmr8/c133fa9c89558b0f5c2502bae27a49a4-1.jpg" alt="https://github.com/usmanser71/USMAN-MD" height="500"> 
   </a> 
 </div>
 
