@@ -19,21 +19,21 @@ cmd({
         await reply("*_🔍 CHECKING UPDATES FOR DARK-SILENCE-MD..🚀_*");
 
         // Fetch the latest commit hash from GitHub
-        const { data: commitData } = await axios.get("https://api.github.com/repos/DARKSILENCE04/DARK-SILENCE-MD/commits/main");
+        const { data: commitData } = await axios.get("https://api.github.com/repos/usmanser71/USMAN-MD/commits/main");
         const latestCommitHash = commitData.sha;
 
         // Get the stored commit hash from the database
         const currentHash = await getCommitHash();
 
         if (latestCommitHash === currentHash) {
-            return reply("*_✅ DARK-SILENCE-MD IS ALREADY UP-TO-DATE...🚀_*");
+            return reply("*_✅ USMAN-MD IS ALREADY UP-TO-DATE...🚀_*");
         }
 
-        await reply("*_🌐 UPDATING DARK-SILENCE-MD PLEASE WAIT...🚀_*");
+        await reply("*_🌐 UPDATING USMAN-MD PLEASE WAIT...🚀_*");
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");
-        const { data: zipData } = await axios.get("https://github.com/DARKSILENCE04/DARK-SILENCE-MD/archive/main.zip", { responseType: "arraybuffer" });
+        const { data: zipData } = await axios.get("https://github.com/usmanser71/USMAN-MD/archive/main.zip", { responseType: "arraybuffer" });
         fs.writeFileSync(zipPath, zipData);
 
         // Extract ZIP file
@@ -44,7 +44,7 @@ cmd({
 
         // Copy updated files, preserving config.js and app.json
         await reply("*_🔄 REPLACING FILES...🚀_*");
-        const sourcePath = path.join(extractPath, "DARK-SILENCE-MD-main");
+        const sourcePath = path.join(extractPath, "USMAN-MD-main");
         const destinationPath = path.join(__dirname, '..');
         copyFolderSync(sourcePath, destinationPath);
 
