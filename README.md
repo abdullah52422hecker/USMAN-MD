@@ -1,15 +1,21 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴜꜱᴍᴀɴ-ᴍᴅ ᴘʀᴏᴊᴇᴄᴛ, ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ᴛᴏ ᴜꜱᴇ ʙᴀɪʟᴇʏꜱ, ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ɴᴏᴡ ʀᴇᴀᴅʏ ᴛᴏ ᴜꜱᴇ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ʙᴜɢ
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="https://github.com/usmanser71/USMAN-MD"/>
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 <div align="center"> 
   <a href="https://github.com/usmanser71"> 
     <img src="https://i.postimg.cc/HWy6vmr8/c133fa9c89558b0f5c2502bae27a49a4-1.jpg" alt="https://github.com/usmanser71/USMAN-MD" height="500"> 
   </a> 
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 <div align="center">
   <a href="https://github.com/usmanser71/followers"><img title="Followers" src="https://img.shields.io/github/followers/usmanser71?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/usmanser71/USMAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/usmanser71/USMAN-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
@@ -48,7 +54,9 @@
   ---
   
   > **2. ✿ ᴘᴀɪʀ ᴡᴇʙ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ✿**
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+---
+
 <p align="center">
 <a href='https://usman-md-pair1.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20id-0000FF?style=for-the-badge&logo=opencv&logoColor=black'/>
