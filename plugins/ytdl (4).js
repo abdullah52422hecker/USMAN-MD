@@ -94,7 +94,7 @@ cmd({
       'video': {
         'url': _0x5f2691
       },
-      'caption': "*POWERED BY USMAN-MD*"
+      'caption': "*𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃*"
     }, {
       'quoted': _0x40711d
     });
