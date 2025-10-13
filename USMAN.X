@@ -12,4 +12,4 @@
 #    * @author : @ USMAN-SER
 #    * @whatsapp : 923097373710
 #    * @description : USMAN-MD ,A Multi-functional Whatsapp Bot Md.
-#    * @version 1.0.0
+#    * @version 1.0.1
