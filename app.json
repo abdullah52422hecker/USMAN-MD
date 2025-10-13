@@ -1,7 +1,7 @@
 {
   "name": "USMAN-MD",
   "description": " υѕмαη мυℓтι ∂єνι¢є вσт",
-  "logo": "https://i.imghippo.com/files/Vwr4563xTk.jpg",
+  "logo": "https://i.postimg.cc/tRmw992W/USMAN-SER.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -124,7 +124,7 @@
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ALWAYS_ONLINE": {
