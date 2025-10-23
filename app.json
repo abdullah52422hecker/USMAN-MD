@@ -1,6 +1,6 @@
 {
-  "name": "USMAN-MD",
-  "description": " υѕмαη мυℓтι ∂єνι¢є вσт",
+  "name": "𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛⸙𝚩𝚶𝚻",
+  "description": "𝞐𝞐𝞑𝞖𝞘🌿𝟬𝟭",
   "logo": "https://i.postimg.cc/tRmw992W/USMAN-SER.jpg",
   "keywords": ["bot"],
   "success_url": "/",
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "USMAN-MD~Ko5hkBLI#p28LmrBBxdJ09MKbnDNv6fgcifaU6hgviUHfnWJM5cM",
       "required": true,
       "value": ""
     },  
@@ -22,7 +22,7 @@
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 𝐍𝐎𝐖 🤍"
+      "value": "𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛⸙𝚩𝚶𝚻 𝐁𝐎𝐓 𝐈𝐒 𝐀𝐋𝐈𝐕𝐄 𝐍𝐎𝐖 🤍"
     },
     
     "PREFIX": {
@@ -94,7 +94,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "𝐔𝐒𝐌𝐀𝐍-𝐌𝐃"
+      "value": "𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛⸙𝚩𝚶𝚻"
     }, 
 
     "HEART_REACT": {
@@ -112,13 +112,13 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 🦋🤍"
+      "value": "𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛⸙𝚩𝚶𝚻 🦋🤍"
     }, 
     
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": false,
-      "value": "🂱 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐀𝐍𝐃 𝐋𝐈𝐊𝐄 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝐖𝐈𝐀 𝐔𝐒𝐌𝐀𝐍-𝐌𝐃 🂱"
+      "value": "🂱 𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐔𝐒 𝐒𝐄𝐄𝐍 𝐀𝐍𝐃 𝐋𝐈𝐊𝐄 𝐉𝐔𝐒𝐓 𝐍𝐎𝐖 𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛⸙𝚩𝚶𝚻 🂱"
     },
     
     "AUTO_REPLY_STATUS": {
@@ -166,7 +166,7 @@
     "OWNER_NAME": {
       "description": "replace it with your own name.",
       "required": false,
-      "value": "𝐔𝐒𝐌𝐀𝐍-𝐒𝐄𝐑 🤍࿐"
+      "value": "𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛⸙𝚩𝚶𝚻🤍࿐"
      },
 
     "INBOX_BLOCK": {
